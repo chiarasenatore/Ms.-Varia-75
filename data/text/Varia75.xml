@@ -913,13 +913,13 @@
             <pb n="1" xml:id="pagina1" facs="data/images/single/1.jpg"/>
             <p rend="bold">Il quaderno di Ludovico Sforza</p>
             <l><lb n="1"/>Etsi coniunctio convenientius cum</l>
-            <l><lb n="2"/>subiuntivi modi verbo iungitur. Citatur </l>
+            <l><lb n="2"/>subiuntivi modi verbo iungitur. Citatur</l>
             <l><lb n="3"/>Rhetorica Nova, <quote>&#171;etsi negotiis
                 familiaribus&#187;</quote>.</l>
-            <l><lb n="4"/>Quamquam vero sepius cum indicativo iungitur. <persName ref="#Virgilio"
-                    >Vir</persName>, secundo </l>
-            <l><lb n="5"/><choice><orig>Eneidos</orig><reg>Aeneidos</reg></choice> <quote>quamquam animus meminisse horret</quote>.<choice><orig>Ocium</orig><reg>Otium</reg></choice> a <choice><orig>grego</orig><reg>graeco</reg></choice> <del hand="#LudovicoSforza">n</del></l>
-            <l><lb n="6"/>id est velocitas. Interdum studium, interdum </l>
+            <l><lb n="4"/>Quamquam vero sepius cum indicativo iungitur.
+                <persName ref="#Virgilio">Vir</persName>, secundo</l>
+            <l><lb n="5"/><choice><orig>Eneidos</orig><reg>Aeneidos</reg></choice> <quote>quamquam animus meminisse horret</quote>. <choice><orig>Ocium</orig><reg>Otium</reg></choice> a <choice><orig>grego</orig><reg>graeco</reg></choice> <del hand="#LudovicoSforza">n</del></l>
+            <l><lb n="6"/>id est velocitas. Interdum studium, interdum</l>
             <l><lb n="7"/>vero quietem significat. Inde negotium quasi negans</l>
             <l><lb n="8"/><choice><orig>ocium</orig><reg>otium</reg></choice>. Studium est vehemens animi applicatio</l>
             <l><lb n="9"/>ad aliquid peragendum summa cum voluntate</l>
@@ -1052,7 +1052,7 @@
                 <reg>tercium tercio</reg>
             </choice> quartum </l>
             <l><lb n="3"/>quarto dicimus ut si <persName ref="#Virgilio">Virgilius</persName> dicat <choice><orig>Eneas</orig><reg>Aeneas</reg></choice>, destructa</l>
-            <l><lb n="4"/><placeName ref="#Troia">Troia</placeName>, funditur naves fecit, in <placeName
+            <l><lb n="4"/><placeName ref="#Troia">Troia</placeName><pc>,</pc> funditur naves fecit, in <placeName
                 ref="#Sicilia">Siciliam</placeName> venit, deinde <del hand="#LudovicoSforza"
                     >m</del></l>
             <l><lb n="5"/>tempestate impulsus in Africam applicuit, demum Italiam </l>
