@@ -93,8 +93,8 @@
                     <head>Lista persone</head>
                     <person xml:id="Virgilio">
                         <persName>Virgilio</persName>
-                        <birth> 70 a.C. , Andes </birth>
-                        <death> 19 a.C. , Brindisi </death>
+                        <birth> 70 a.C., Andes </birth>
+                        <death> 19 a.C., Brindisi </death>
                         <note>
                             <ref
                                 target="https://www.treccani.it/enciclopedia/publio-virgilio-marone/"
@@ -132,8 +132,8 @@
                     </person>
                     <person xml:id="Aristotele">
                         <persName>Aristotele</persName>
-                        <birth> 384-383 a.C. , Stagira</birth>
-                        <death> 322 a.C. , Calcide </death>
+                        <birth> 384-383 a.C., Stagira</birth>
+                        <death> 322 a.C., Calcide </death>
                         <note>
                             <ref target="https://www.treccani.it/enciclopedia/aristotele/"
                                 >Aristotele</ref> fu uno dei più importanti filosofi dell'antichità.
@@ -164,7 +164,7 @@
                                 target="https://www.treccani.it/enciclopedia/ludovico-sforza-detto-il-moro-duca-di-milano_%28Dizionario-Biografico%29/"
                                 > Ludovico Maria Sforza</ref>, detto il Moro, fu il quarto figlio di
                             Bianca Maria Visconti e Francesco Sforza. Fu prima reggente e poi duca
-                            di Milano 1480 al 1499 e, nello stesso periodo, signore di Genova .
+                            di Milano dal 1480 al 1499 e, nello stesso periodo, signore di Genova.
                             Durante il suo ducato, la corte di Milano divenne una delle più
                             illuminate d'Europa grazie alla presenza di numerosi artisti e letterati
                             da lui patrocinati. Fu catturato dai francesi di Luigi XII nel 1500 e
@@ -214,8 +214,8 @@
                     </person>
                     <person xml:id="Cicerone">
                         <persName> Cicerone</persName>
-                        <birth>106 a.C. , Arpino</birth>
-                        <death> 43 a.C. , Formia</death>
+                        <birth>106 a.C., Arpino</birth>
+                        <death> 43 a.C., Formia</death>
                         <note>
                             <ref
                                 target="https://www.treccani.it/enciclopedia/marco-tullio-cicerone/"
@@ -251,31 +251,30 @@
                     </person>
                     <person xml:id="Quintiliano">
                         <persName> Marco Fabio Quintiliano</persName>
-                        <birth> 35 ca. , Calahorra</birth>
-                        <death> 96 , Roma</death>
+                        <birth> 35 ca., Calahorra</birth>
+                        <death> 96, Roma</death>
                         <note>
                             <ref
                                 target="https://www.treccani.it/enciclopedia/marco-fabio-quintiliano/"
                                 >Marco Fabio Quintiliano</ref> fu il primo retore romano stipendiato
                             e insignito della dignità consolare per volere dell'imperatore
-                            Vespasiano . La sua opera principale fu l'<hi rend="italic">Institutio
+                            Vespasiano. La sua opera principale fu l'<hi rend="italic">Institutio
                                 oratoria</hi>, divisa in dodici libri, un manuale preparatorio al
                             mestiere dell'oratore. </note>
                     </person>
                     <person xml:id="Catone">
                         <persName>Marco Porcio Catone</persName>
-                        <birth> 234 a.C. , Tuscolo </birth>
-                        <death> 149 a.C. , Roma </death>
+                        <birth> 234 a.C., Tuscolo </birth>
+                        <death> 149 a.C., Roma </death>
                         <note>
                             <ref
                                 target="https://www.treccani.it/enciclopedia/catone-marco-porcio-detto-il-censore/"
                                 > Marco Porcio Catone</ref> è stato un generale, politico e
                             scrittore romano. Combattè valorosamente nella seconda guerra punica, fu
-                            pretore nel 198 in Sardegna e fu eletto censore nel 184 . Fu autore di
-                            numerosi manuali tecnico-pratici volti a difendere il <hi rend="italics"
-                                >mos maiorum</hi> da qualsiasi influenza. Compose la prima opera
+                            pretore nel 198 in Sardegna e fu eletto censore nel 184. Fu autore di
+                            numerosi manuali tecnico-pratici volti a difendere il <hi rend="italics">mos maiorum</hi> da qualsiasi influenza. Compose la prima opera
                             storiografica latina, le <hi rend="italic"> Origines</hi>, che narrava
-                            la storia di Roma dalla sua fondazione al II secolo a.C. . Pronunciò più
+                            la storia di Roma dalla sua fondazione al II secolo a.C.. Pronunciò più
                             di cento orazioni, delle quali restano solo frammenti. I suoi tratti
                             caratteristici sono un austero moralismo, una strenua opposizione alla
                             corruzione e al processo di ellenizzazione (i.e. la diffusione della
@@ -283,8 +282,8 @@
                     </person>
                     <person xml:id="Ennio">
                         <persName>Ennio</persName>
-                        <birth> 239 a.C. , Taranto </birth>
-                        <death> 169 a.C. , Roma </death>
+                        <birth> 239 a.C., Taranto </birth>
+                        <death> 169 a.C., Roma </death>
                         <note>
                             <ref
                                 target="https://www.treccani.it/enciclopedia/quinto-ennio_%28Dizionario-di-Storia%29/"
@@ -295,7 +294,7 @@
                             possedere tre cuori poiché conosceva tre lingue: latino, greco ed osco.
                             Fu autore di numerose opere, delle quali restano solo frammenti. La sua
                             opera più nota sono gli <hi rend="italic">Annales</hi>, una narrazione
-                            annalistica di Roma dalle origini al 171 a.C. . Fu autore anche di
+                            annalistica di Roma dalle origini al 171 a.C.. Fu autore anche di
                             composizioni drammatiche, sia tragiche sia comiche. </note>
                     </person>
                     <person xml:id="Saturno">
@@ -303,15 +302,15 @@
                         <note>
                             <ref
                                 target=" https://www.treccani.it/enciclopedia/saturno_(Enciclopedia-Italiana)/"
-                                >Saturno</ref> fu un antica divinità romana, l'equivalente del
+                                >Saturno</ref> fu un'antica divinità romana, l'equivalente del
                             titano greco Crono. Ebbe sede sul Campidoglio, dopo essere giunto esule
                             a Roma, spodestato dal figlio Giove e cacciato dal suo regno. Il suo
                             culto ebbe diffusione solo a Roma. </note>
                     </person>
                     <person xml:id="Terenzio">
                         <persName>Terenzio</persName>
-                        <birth> 195/185 a.C. , Cartagine </birth>
-                        <death> 159 a.C. , Stinfalo </death>
+                        <birth> 195/185 a.C., Cartagine </birth>
+                        <death> 159 a.C., Stinfalo </death>
                         <note>
                             <ref
                                 target="https://www.treccani.it/enciclopedia/afro-publio-terenzio_(Enciclopedia-Italiana)/"
@@ -371,7 +370,7 @@
                         </location>
                     </place>
                 </listPlace>
-                            </sourceDesc>
+            </sourceDesc>
         </fileDesc>
     </teiHeader>
     <text n="ms. Varia 75" xml:id="Varia75">
@@ -382,26 +381,26 @@
                 <l><lb/>La congiunzione <hi rend="italic">etsi</hi> (i. e. anche se) è unita più
                     correttamente </l>
                 <l><lb/>ad un verbo al modo congiuntivo. Citazione </l>
-                <l><lb/>dalla <hi rend="italic">Rhetorica ad Herennium</hi>: &#171;<quote>anche se nelle
-                    faccende familiari.</quote>&#187;</l>
+                <l><lb/>dalla <hi rend="italic">Rhetorica ad Herennium</hi>: &#171;<quote>anche se
+                        nelle faccende familiari.</quote>&#187;</l>
                 <l><lb/><hi rend="italic">Quamquam</hi> (i. e. sebbene) invece è più frequentemente
                     unita all'indicativo. <persName ref="#Virgilio">Virgilio</persName>, </l>
-                <l><lb/><hi rend="italic">Eneide</hi> II &#171;<quote>sebbene il mio animo inorridisca nel ricordare</quote>&#187;. <hi
-                        rend="italic">Otium</hi> deriva dal greco </l>
+                <l><lb/><hi rend="italic">Eneide</hi> II &#171;<quote>sebbene il mio animo
+                        inorridisca nel ricordare</quote>&#187;. <hi rend="italic">Otium</hi> deriva
+                    dal greco </l>
                 <l><lb/>__________ , vuol dire velocità. Talora significa applicazione allo studio
                     mentre talora </l>
                 <l><lb/>riposo. Perciò il <hi rend="italic">negotium</hi> (i. e. occupazione) è in
                     un certo qual modo ciò che nega</l>
-                <l><lb/>
-                    l'<hi rend="italic">otium</hi>. Lo <hi rend="italic">studium</hi> è una forte
-                    inclinazione dell'animo</l>
+                <l><lb/> l'<hi rend="italic">otium</hi>. Lo <hi rend="italic">studium</hi> è una
+                    forte inclinazione dell'animo</l>
                 <l><lb/>a compiere una cosa con la massima volontà</l>
                 <l><lb/>ed è più generale e più forte rispetto a <hi rend="italics">voluntas</hi>
                     (i. e. volontà).<hi rend="italic">Suppeditare</hi></l>
                 <l><lb/> significa aggiungere, &#8224;subij&#8224; talvolta procurare, </l>
                 <l><lb/>da <hi rend="italic">sub</hi> (i.e. sotto) e <hi rend="italic">pes</hi> (i.
-                    e. piede), <hi rend="italic">-dis</hi>. <hi rend="italic">Consumere</hi> significa
-                    distribuire,</l>
+                    e. piede), <hi rend="italic">-dis</hi>. <hi rend="italic">Consumere</hi>
+                    significa distribuire,</l>
                 <l><lb/>delimitare e distruggere. <hi rend="italics">Rhetorica</hi> (i. e. retorica)
                     dall'arte del retore </l>
                 <l><lb/>o dall'espressione greca ______. La retorica è designata come l'arte di </l>
@@ -422,64 +421,67 @@
                         >dispositio</hi>, <hi rend="italic">elocutio</hi>, <hi rend="italic"
                         >memoria</hi>
                 </l>
-                <l><lb/>e <hi rend="italic">pronuntiatio</hi>. Pochi tengono discorsi, tutti parlano: </l>
-                <l><lb/>parliamo per natura, teniamo discorsi per abilità. Diciamo <hi rend="italic">tua
-                        causa</hi> (i.e. per causa tua)</l>
+                <l><lb/>e <hi rend="italic">pronuntiatio</hi>. Pochi tengono discorsi, tutti
+                    parlano: </l>
+                <l><lb/>parliamo per natura, teniamo discorsi per abilità. Diciamo <hi rend="italic"
+                        >tua causa</hi> (i.e. per causa tua)</l>
                 <l><lb/> con il caso ablativo quando facciamo qualcosa principalmente per uno che lo
                     chiede.</l>
                 <l><lb/>
-                    <hi rend="italic">Suscepimus</hi> (i.e. accogliamo) in volgare si dice &#34;habiamo
-                    toto sopra</l>
-                <l><lb/> de nui&#34;. <hi rend="italic">Copia</hi> deriva da <hi rend="italic">con </hi>
-                    (i.e. con) ed <hi rend="italic">ope</hi> (i.e. risorsa). Al singolare <hi rend="italic">copia</hi></l>
+                    <hi rend="italic">Suscepimus</hi> (i.e. accogliamo) in volgare si dice
+                    &#34;habiamo toto sopra</l>
+                <l><lb/> de nui&#34;. <hi rend="italic">Copia</hi> deriva da <hi rend="italic">con
+                    </hi> (i.e. con) ed <hi rend="italic">ope</hi> (i.e. risorsa). Al singolare <hi
+                        rend="italic">copia</hi></l>
                 <l><lb/> significa abbondanza di cose, mentre al plurale un gran numero di persone,
                     principalmente</l>
                 <l><lb/> di soldati. <hi rend="italic">Recta sapientia</hi> vuol dire intelligenza. </l>
-                <l><lb/><persName ref="#Cicerone">Cicero</persName> in <hi rend="italic">Veteri</hi>: &#171;<quote>l'eloquenza senza il sapere serve
-                    a poco e nulla. </quote>&#187;</l>
-                <l><lb/><persName ref="#Quintiliano">Quintiliano</persName> dice che in primo luogo i bambini devono</l>
+                <l><lb/><persName ref="#Cicerone">Cicero</persName> in <hi rend="italic"
+                    >Veteri</hi>: &#171;<quote>l'eloquenza senza il sapere serve a poco e nulla.
+                    </quote>&#187;</l>
+                <l><lb/><persName ref="#Quintiliano">Quintiliano</persName> dice che in primo luogo
+                    i bambini devono</l>
                 <l><lb/>imparare le lettere greche. Gli scrittori di libri </l>
-                <l><lb/>sono chiamati <hi rend="italic">compositores</hi> mentre i copisti <hi
-                        rend="italic">transcriptores</hi>. <hi rend="italic">Quaestus </hi>
+                <l><lb/>sono chiamati <hi rend="italic">compositores</hi> mentre i copisti <hi rend="italic">transcriptores</hi>. <hi rend="italic">Quaestus </hi>
                 </l>
                 <l><lb/>con il dittongo significa guadagno, in caso contrario lamento.</l>
                 <l><lb/>
                     <hi rend="italic">Praecipio</hi> (i.e. anticipare) talora vuol dire insegnare.
                         <hi rend="italic">Officium</hi></l>
-                <l><lb/>talora indica il bene morale, come in <persName ref="#Cicerone">Cicerone</persName> nel <hi rend="italic">De
-                        Officiis</hi>, talora</l>
+                <l><lb/>talora indica il bene morale, come in <persName ref="#Cicerone">Cicerone</persName> nel <hi rend="italic">De Officiis</hi>, talora</l>
                 <l><lb/> il favore e l'obbligo, talora ciò che deve essere fatto: </l>
                 <l><lb/>e allora da <hi rend="italic">efficio</hi> (i.e. fare) si dice quasi <hi
                         rend="italic">efficium</hi>.</l>
-                <l><lb/><hi rend="italic">Orator</hi> per definizione di <persName ref="#Catone">Catone</persName> e di <persName ref="#Quintiliano">Quintiliano</persName> è
-                    un uomo</l>
+                <l><lb/><hi rend="italic">Orator</hi> per definizione di <persName ref="#Catone"
+                        >Catone</persName> e di <persName ref="#Quintiliano">Quintiliano</persName>
+                    è un uomo</l>
                 <l><lb/> di valore ed esperto nell'arte della parola. L'oratore non solo</l>
-                <l><lb/>conosce la teoria, ma la mette anche in pratica, come <persName ref="#Cicerone">Cicerone</persName> nelle
-                    orazioni</l>
+                <l><lb/>conosce la teoria, ma la mette anche in pratica, come <persName
+                        ref="#Cicerone">Cicerone</persName> nelle orazioni</l>
                 <l><lb/> e in tutte le cause, vale a dire in quelle importanti, in quelle di poco
                     valore e</l>
-            </ab>                                         
-         <p rend="bold">Pagina 3</p>
+            </ab>
+            <p rend="bold">Pagina 3</p>
             <ab>
                 <l><lb/><hi rend="italic">Contemptio</hi> è il disprezzo verso qualcuno a causa di
                     colpe</l>
                 <l><lb/>precedenti. <hi rend="italic">Inertia</hi> (i.e. pigrizia) deriva da <hi
-                    rend="italic">in</hi> ed <hi rend="italic">ars</hi> ed è relativa al corpo.
-                    <hi rend="italic">Navus</hi> vuol dire prudente,</l>
-                <l><lb/>quindi <hi rend="italic">ignavus</hi> (i.e. indolente) è come &#34;privo
-                    di fuoco&#34; ed è proprio dell'animo come</l>
+                        rend="italic">in</hi> ed <hi rend="italic">ars</hi> ed è relativa al corpo.
+                        <hi rend="italic">Navus</hi> vuol dire prudente,</l>
+                <l><lb/>quindi <hi rend="italic">ignavus</hi> (i.e. indolente) è come &#34;privo di
+                    fuoco&#34; ed è proprio dell'animo come</l>
                 <l><lb/>anche <hi rend="italic">secordia</hi> (i.e. inerzia). <hi rend="italic"
-                    >Desidia</hi> da <hi rend="italic">de</hi> e <hi rend="italic">sedeo</hi>
+                        >Desidia</hi> da <hi rend="italic">de</hi> e <hi rend="italic">sedeo</hi>
                     (i.e. star fermo) e vuol dire non fare nulla e</l>
                 <l><lb/>pertiene al corpo ed è proprio in particolare degli scabbiosi. <hi
-                    rend="italic">Luxuria</hi> è</l>
+                        rend="italic">Luxuria</hi> è</l>
                 <l><lb/>l'eccessiva abbondanza di tutto e si dice a proposito di terreni, indumenti </l>
                 <l><lb/>e alimenti e si utilizza anche al posto della stessa <hi rend="italic"
-                    >libido</hi> (i.e. dissolutezza).</l>
+                        >libido</hi> (i.e. dissolutezza).</l>
                 <l><lb/><hi rend="italic">Prudentia</hi> è l'esperienza di molte cose e pertiene
                     particolarmente alle cose umane,</l>
                 <l><lb/>mentre <hi rend="italic">sapientia</hi> alle cose divine. <hi rend="italic"
-                    >Fortitudo</hi> è il disprezzo delle cose umili e </l>
+                        >Fortitudo</hi> è il disprezzo delle cose umili e </l>
                 <l><lb/>il desiderio di quelle grandi. La <hi rend="italic">temperantia</hi>
                     indica</l>
                 <l><lb/>il trattenere l'animo dai piaceri, mentre la <hi rend="italic"
@@ -487,12 +489,12 @@
                 <l><lb/>indica l'attribuire ricompense agli onesti e pene ai disonesti e senza
                     dubbio</l>
                 <l><lb/>si distingue tra le altre virtù. _____ in greco è la <hi rend="italic"
-                    >contentio</hi> in latino</l>
+                        >contentio</hi> in latino</l>
                 <l><lb/>ed è un paragone reciproco, anche detta <hi rend="italic">litigatio</hi>. </l>
                 <l><lb/><hi rend="italic">Fides</hi> generalmente è l'osservazione delle promesse
                     come </l>
-                <l><lb/>dice <persName ref="#Cicerone">Cicerone</persName> nel <hi rend="italic">De Officiis</hi>, mentre nel lessico
-                    retorico si dice</l>
+                <l><lb/>dice <persName ref="#Cicerone">Cicerone</persName> nel <hi rend="italic">De
+                        Officiis</hi>, mentre nel lessico retorico si dice</l>
                 <l><lb/><hi rend="italic">credulitas</hi>. La <hi rend="italic">depravatio</hi>
                     indica l'alterazione delle parole come</l>
                 <l><lb/><hi rend="italic">sorbie</hi> al posto di <hi rend="italic">sobrie</hi>
@@ -503,9 +505,11 @@
                     parole, <hi rend="italic">adrisio</hi>
                 </l>
                 <l><lb/>(i.e. sorriso di approvazione) ad azioni e gesti. <hi rend="italic"
-                    >Interpellare</hi> vuol dire </l>
+                        >Interpellare</hi> vuol dire </l>
                 <l><lb/>impedire a qualcuno di fare o dire qualcosa. </l>
-                <l><lb/><persName ref="#Catone">Catone</persName> contro un avversario gobbo &#171;<q>Per i marinai il delfino annuncia</q> </l>
+                <l><lb/><persName ref="#Catone">Catone</persName> contro un avversario gobbo
+                        &#171;<q>Per i marinai il delfino annuncia</q>
+                </l>
                 <l><lb/><q>il cattivo tempo sul mare spumoso</q>&#187;. L'ordine</l>
             </ab>
             <p rend="bold">Pagina 4</p>
@@ -514,13 +518,16 @@
                 <l><lb/>narrativo retorico è di due tipi: naturale, cioè quando diciamo la prima
                     cosa </l>
                 <l><lb/>per prima, la seconda per seconda, la terza per terza, la quarta </l>
-                <l><lb/>per quarta come se <persName ref="#Virgilio">Virgilio</persName> dicesse che Enea, dopo che <placeName ref="#Troia">Troia</placeName> </l>
-                <l><lb/>fu distrutta, costruì le navi da zero, arrivò in <placeName ref="#Sicilia">Sicilia</placeName>, poi </l>
+                <l><lb/>per quarta come se <persName ref="#Virgilio">Virgilio</persName> dicesse che
+                    Enea, dopo che <placeName ref="#Troia">Troia</placeName>
+                </l>
+                <l><lb/>fu distrutta, costruì le navi da zero, arrivò in <placeName ref="#Sicilia"
+                        >Sicilia</placeName>, poi </l>
                 <l><lb/>spinto da una tempesta approdò in Africa, infine giunse in Italia. </l>
                 <l><lb/>Ed è proprio dell'oratore. Invece è costruito ad arte quando diciamo per
                     prima la terza o </l>
                 <l><lb/>la seconda cosa e per terza la prima cosa, confondendo l'ordine, da qui
-                    <persName ref="#Virgilio">Virgilio</persName>: Enea </l>
+                        <persName ref="#Virgilio">Virgilio</persName>: Enea </l>
                 <l><lb/>partendo dalla Sicilia arrivò in Africa, lì, dopo che gli fu chiesto, narra
                     a Didone </l>
                 <l><lb/>la distruzione di Troia, infine giunse in Italia. Questo</l>
@@ -532,320 +539,511 @@
                 <l><lb/>rabbonisce l'animo di chi ascolta e chiarisce </l>
                 <l><lb/>il concetto più facilmente. _____________________ opposizione</l>
                 <l><lb/>alle leggi, ________________ legge, _______ contro. <hi rend="italic"
-                    >Contio</hi>
+                        >Contio</hi>
                 </l>
                 <l><lb/>indica la folla riunita per ascoltare, il luogo </l>
                 <l><lb/>in cui sono riuniti ma talora anche la stessa orazione,</l>
                 <l><lb/>da <hi rend="italic">con</hi> e <hi rend="italic">cio</hi>, <hi
-                    rend="italic">cis</hi>. <hi rend="italic">Multa</hi> è la pena ed è </l>
+                        rend="italic">cis</hi>. <hi rend="italic">Multa</hi> è la pena ed è </l>
                 <l><lb/>una parola osca. Infatti tre erano in Italia le lingue</l>
-                <l><lb/>o gli alfabeti, cioè osca, latina e greca, per cui <persName ref="#Ennio">Ennio</persName></l>
+                <l><lb/>o gli alfabeti, cioè osca, latina e greca, per cui <persName ref="#Ennio"
+                        >Ennio</persName></l>
                 <l><lb/>è detto l'uomo dai tre cuori poiché conosceva tre</l>
-            </ab>                      
+            </ab>
             <p rend="bold">Pagina 5</p>
             <ab>
                 <l><lb/><hi rend="bold">SERSE</hi></l>
-                <l><lb/>lingue. <hi rend="italic">Ambiguum</hi> (i.e. ambiguità), da <hi rend="italic">am</hi> e <hi rend="italic">ago</hi>, <hi rend="italic">agis</hi> (i.e. condurre), è ciò che si accetta che sia da interpretare in due o più sensi, quasi ciò che fa cambiare pensiero.</l>
-                <l><lb/><hi rend="italic">Emblemata</hi> (i.e. ornamento a rilievo) significa vasi incisi e di grande valore. Dal greco </l>
-                <l><lb/>______ , <hi rend="italic">coniecto</hi> (i.e. congetturare). <hi rend="italic">Definitum</hi> vuol dire ciò che precede</l>
+                <l><lb/>lingue. <hi rend="italic">Ambiguum</hi> (i.e. ambiguità), da <hi
+                        rend="italic">am</hi> e <hi rend="italic">ago</hi>, <hi rend="italic"
+                        >agis</hi> (i.e. condurre), è ciò che si accetta che sia da interpretare in
+                    due o più sensi, quasi ciò che fa cambiare pensiero.</l>
+                <l><lb/><hi rend="italic">Emblemata</hi> (i.e. ornamento a rilievo) significa vasi
+                    incisi e di grande valore. Dal greco </l>
+                <l><lb/>______ , <hi rend="italic">coniecto</hi> (i.e. congetturare). <hi
+                        rend="italic">Definitum</hi> vuol dire ciò che precede</l>
                 <l><lb/>questa parola, mentre <hi rend="italic">diffinitio</hi> è ciò che segue</l>
-                <l><lb/>comprendendo tuttavia l'intero corpo ed è relativo all'essenza delle cose, come </l>
-                <l><lb/>&#34;razionale&#34; e &#34;mortale&#34;.  <hi rend="italic">Latores</hi> sono chiamati gli autori delle leggi.</l>
-                <l><lb/><hi rend="italic">As</hi> (i.e. asse) è ciò che contiene dodici once. Le parti di questo sono: semiasse,</l>
-                <l><lb/>un terzo e un quarto di asse. <hi rend="italic">Erarium</hi>, da <hi rend="italic">aes</hi>, è il luogo delle ricchezze pubbliche.</l>
-                <l><lb/><hi rend="italic">Erarii</hi> sono chiamati coloro che sono condannati a pagare. <hi rend="italic">Setius</hi> talora </l>
-                <l><lb/>significa più, talora è il comparativo di <hi rend="italic">secus</hi> (i.e. diversamente) ed ha la </l>
+                <l><lb/>comprendendo tuttavia l'intero corpo ed è relativo all'essenza delle cose,
+                    come </l>
+                <l><lb/>&#34;razionale&#34; e &#34;mortale&#34;. <hi rend="italic">Latores</hi> sono
+                    chiamati gli autori delle leggi.</l>
+                <l><lb/><hi rend="italic">As</hi> (i.e. asse) è ciò che contiene dodici once. Le
+                    parti di questo sono: semiasse,</l>
+                <l><lb/>un terzo e un quarto di asse. <hi rend="italic">Erarium</hi>, da <hi
+                        rend="italic">aes</hi>, è il luogo delle ricchezze pubbliche.</l>
+                <l><lb/><hi rend="italic">Erarii</hi> sono chiamati coloro che sono condannati a
+                    pagare. <hi rend="italic">Setius</hi> talora </l>
+                <l><lb/>significa più, talora è il comparativo di <hi rend="italic">secus</hi> (i.e.
+                    diversamente) ed ha la </l>
                 <l><lb/>prima lunga mentre <hi rend="italic">secus</hi> è breve. <hi rend="italic">Translatio</hi> (i.e. translazione) non significa</l>
-                <l><lb/>evitare la norma, ma cercare un cambio di tempo, luogo, causa, accusatore</l>
+                <l><lb/>evitare la norma, ma cercare un cambio di tempo, luogo, causa,
+                    accusatore</l>
                 <l><lb/>o giudice. <hi rend="italic">Reus</hi> talora è colui che meritò</l>
-                <l><lb/>una pena, talora al posto di <hi rend="italic">accusator</hi> (i.e. accusatore), cioè colui che è accusato di qualcosa.</l>
-                <l><lb/><hi rend="italic">Furtum</hi> è la sottrazione di beni privati, mentre <hi rend="italic">peculatus</hi> è la sottrazione dei beni sacri e </l>
-                <l><lb/>pubblici da un luogo sacro e pubblico. <hi rend="italic">Fumosus</hi> (i.e. fumoso) significa continuamente infuriato</l>
-                <l><lb/>e per natura, mentre <hi rend="italic">furiatus</hi> (i.e. infuriato) da un accidente. <hi rend="italic">Actio</hi> è</l>
-                <l><lb/>l'esclusione della facoltà di agire e il diritto di accusare. <hi rend="italic">Exceptio</hi> è </l>
-                <l><lb/>l'esclusione della facoltà di agire. <hi rend="italic">Pecunia</hi> è detta ogni cosa che può essere</l>
+                <l><lb/>una pena, talora al posto di <hi rend="italic">accusator</hi> (i.e.
+                    accusatore), cioè colui che è accusato di qualcosa.</l>
+                <l><lb/><hi rend="italic">Furtum</hi> è la sottrazione di beni privati, mentre <hi
+                        rend="italic">peculatus</hi> è la sottrazione dei beni sacri e </l>
+                <l><lb/>pubblici da un luogo sacro e pubblico. <hi rend="italic">Fumosus</hi> (i.e.
+                    fumoso) significa continuamente infuriato</l>
+                <l><lb/>e per natura, mentre <hi rend="italic">furiatus</hi> (i.e. infuriato) da un
+                    accidente. <hi rend="italic">Actio</hi> è</l>
+                <l><lb/>l'esclusione della facoltà di agire e il diritto di accusare. <hi
+                        rend="italic">Exceptio</hi> è </l>
+                <l><lb/>l'esclusione della facoltà di agire. <hi rend="italic">Pecunia</hi> è detta
+                    ogni cosa che può essere</l>
                 <l><lb/>contata, pesata o misurata e riguarda soprattutto beni privati. Da qui </l>
                 <l><lb/>le monete avevano su una faccia una grande pecora</l>
                 <l><lb/>scolpita, poiché le loro ricchezze derivavano dall'agricoltura</l>
-            </ab>                   
-           <p rend="bold">Pagina 6</p>
+            </ab>
+            <p rend="bold">Pagina 6</p>
             <ab>
                 <l><lb/><hi rend="bold">TEMISTOCLE</hi></l>
                 <l><lb/>e dalle pecore, mentre sull'altra una nave per </l>
-                <l><lb/>l'arrivo di <persName ref="#Saturno">Saturno</persName> in Italia. <hi rend="italic">Peculium</hi> erano i beni personali dei </l>
-                <l><lb/>figli emancipati o dei servi ed era chiamato <hi rend="italic">pecunia castrensis</hi>.</l>
-                <l><lb/><hi rend="italic">Familia</hi> talvolta come persone, talvolta come beni. <persName ref="#Terenzio">Terenzio</persName>:</l>
-                <l><lb/>&#171;<quote>Non ho soldi per dieci giorni</quote>&#187;. Un tale Malleolo</l>
-                <l><lb/>al tempo di Marcio, poiché aveva ucciso la madre, incarcerato fece testamento.</l>
-                <l><lb/><hi rend="italic">Solea lignea</hi> (i.e. sandalo di legno), ossia cippo. <hi rend="italic">Folliculus</hi> talvolta indica la pelle</l>
-                <l><lb/>a forma di sacco o una palla. <hi rend="italic">Mimi</hi> dal greco _____ , è colui che</l>
-                <l><lb/>riproduce in scena i gesti. <hi rend="italic">Histrio</hi> (i.e. pantomimo) dall'etrusco <hi rend="italic">Hister</hi>,</l>
-                <l><lb/>il primo inventore. Nella lingua di Roma era chiamato <hi rend="italic">ludio</hi>,</l>
-                <l><lb/><hi rend="italic">creator</hi> in latino. <hi rend="italic">Poeta</hi> da _____ , cioè</l>
+                <l><lb/>l'arrivo di <persName ref="#Saturno">Saturno</persName> in Italia. <hi
+                        rend="italic">Peculium</hi> erano i beni personali dei </l>
+                <l><lb/>figli emancipati o dei servi ed era chiamato <hi rend="italic">pecunia
+                        castrensis</hi>.</l>
+                <l><lb/><hi rend="italic">Familia</hi> talvolta come persone, talvolta come beni.
+                        <persName ref="#Terenzio">Terenzio</persName>:</l>
+                <l><lb/>&#171;<quote>Non ho soldi per dieci giorni</quote>&#187;. Un tale
+                    Malleolo</l>
+                <l><lb/>al tempo di Marcio, poiché aveva ucciso la madre, incarcerato fece
+                    testamento.</l>
+                <l><lb/><hi rend="italic">Solea lignea</hi> (i.e. sandalo di legno), ossia cippo.
+                        <hi rend="italic">Folliculus</hi> talvolta indica la pelle</l>
+                <l><lb/>a forma di sacco o una palla. <hi rend="italic">Mimi</hi> dal greco _____ ,
+                    è colui che</l>
+                <l><lb/>riproduce in scena i gesti. <hi rend="italic">Histrio</hi> (i.e. pantomimo)
+                    dall'etrusco <hi rend="italic">Hister</hi>,</l>
+                <l><lb/>il primo inventore. Nella lingua di Roma era chiamato <hi rend="italic" >ludio</hi>,</l>
+                <l><lb/><hi rend="italic">creator</hi> in latino. <hi rend="italic">Poeta</hi> da
+                    _____ , cioè</l>
                 <l><lb/>creo o faccio. <hi rend="italic">Fortuna</hi> è una forza inaspettata, </l>
-                <l><lb/>che intralcia il volere. Mentre necessità si dice <hi rend="italic">urgens</hi> anche se </l>
-                <l><lb/>possono essere la stessa cosa come testimonia <persName ref="#Cicerone">Cicerone</persName> in <hi rend="italic">Arte Veteri</hi>.</l>
+                <l><lb/>che intralcia il volere. Mentre necessità si dice <hi rend="italic"
+                        >urgens</hi> anche se </l>
+                <l><lb/>possono essere la stessa cosa come testimonia <persName ref="#Cicerone" >Cicerone</persName> in <hi rend="italic">Arte Veteri</hi>.</l>
                 <l><lb/>Presso gli Spartani veniva fatto ogni anno un sacrificio </l>
                 <l><lb/>di cento buoi che era chiamato <hi rend="italic">hecatombe</hi>. _______ </l>
-                <l><lb/><hi rend="italic">commeatus</hi>  nei racconti storici indica un gran numero di cose necessarie</l>
-                <l><lb/>per l'esercito, talora anche il momento di andare. <hi rend="italic">Deprecatio</hi> (i.e. scongiuro) è</l>
-                <l><lb/>una forte preghiera. <persName ref="#Quintiliano">Quintiliano</persName>, &#171;<quote>dove nel diritto ha luogo la clemenza,</quote></l>
-                <l><lb/><quote>c'è scongiuro</quote>&#187;. Ogni tanto <hi rend="italic">deprecatio</hi> indica la confutazione. <hi rend="italic">Plebis scitum</hi> è un decreto del popolo,</l>
-                <l><lb/>da _____ , cioè <hi rend="italic">instituo</hi> (i.e. stabilire). <hi rend="italic">Maiestas</hi>
-                    è definita dagli antenati la grandezza</l>
+                <l><lb/><hi rend="italic">commeatus</hi> nei racconti storici indica un gran numero
+                    di cose necessarie</l>
+                <l><lb/>per l'esercito, talora anche il momento di andare. <hi rend="italic"
+                        >Deprecatio</hi> (i.e. scongiuro) è</l>
+                <l><lb/>una forte preghiera. <persName ref="#Quintiliano">Quintiliano</persName>,
+                        &#171;<quote>dove nel diritto ha luogo la clemenza,</quote></l>
+                <l><lb/><quote>c'è scongiuro</quote>&#187;. Ogni tanto <hi rend="italic"
+                        >deprecatio</hi> indica la confutazione. <hi rend="italic">Plebis
+                        scitum</hi> è un decreto del popolo,</l>
+                <l><lb/>da _____ , cioè <hi rend="italic">instituo</hi> (i.e. stabilire). <hi
+                        rend="italic">Maiestas</hi> è definita dagli antenati la grandezza</l>
                 <l><lb/>del potere e la condizione della cittadinanza. Consisteva</l>
             </ab>
             <p rend="bold">Pagina 7</p>
             <ab><l><lb/><hi rend="bold">LEONIDA</hi></l>
                 <l><lb/>nel suffragio del popolo e nell'assemblea della magistratura.</l>
-                <l><lb/><hi rend="italic">Destinari</hi> vuol dire immaginarsi nella mente ed essere disposto. _______ Giudicare,</l>
+                <l><lb/><hi rend="italic">Destinari</hi> vuol dire immaginarsi nella mente ed essere
+                    disposto. _______ Giudicare,</l>
                 <l><lb/>passivo, _______ giudicante. <hi rend="italic">Maturare</hi></l>
                 <l><lb/>vuol dire affrettarsi coscienziosamente con una certa lentezza,</l>
-                <l><lb/>______ ossia affrettarsi tardi. <hi rend="italic">Officia</hi> nel lessico retorico</l>
-                <l><lb/>sono quelle cose senza le quali la retorica stessa non potrebbe esistere:</l>
-                <l><lb/>ideazione, disposizione degli argomenti, elaborazione linguistica, memorizzazione, pronuncia.</l>
-                <l><lb/><hi rend="italic">Potius</hi> (i.e. piuttosto) si utilizza tra due, <hi rend="italic">potissimum</hi> (i.e. principalmente) tra molti. </l>
+                <l><lb/>______ ossia affrettarsi tardi. <hi rend="italic">Officia</hi> nel lessico
+                    retorico</l>
+                <l><lb/>sono quelle cose senza le quali la retorica stessa non potrebbe
+                    esistere:</l>
+                <l><lb/>ideazione, disposizione degli argomenti, elaborazione linguistica,
+                    memorizzazione, pronuncia.</l>
+                <l><lb/><hi rend="italic">Potius</hi> (i.e. piuttosto) si utilizza tra due, <hi
+                        rend="italic">potissimum</hi> (i.e. principalmente) tra molti. </l>
                 <l><lb/><hi rend="italic">Propemodum</hi> vuol dire quasi. <hi rend="italic">Argumentum</hi> (i.e. argomento) talvolta</l>
                 <l><lb/>significa raccolta di argomenti, in greco si dice _________ . </l>
-                <l><lb/><hi rend="italic">Actum</hi> (i.e. atto) riguarda qualcosa di particolare, <hi rend="italic">factum</hi> (i.e. fatto) qualcosa di generale </l>
+                <l><lb/><hi rend="italic">Actum</hi> (i.e. atto) riguarda qualcosa di particolare,
+                        <hi rend="italic">factum</hi> (i.e. fatto) qualcosa di generale </l>
                 <l><lb/>da pensare, da dire e da compiere. La vita è quella che viviamo,</l>
-                <l><lb/>le stesse abitudini sono chiamate vita. <hi rend="italic">Conglutinare</hi> (i.e. incollare) vuol dire legare,</l>
+                <l><lb/>le stesse abitudini sono chiamate vita. <hi rend="italic">Conglutinare</hi>
+                    (i.e. incollare) vuol dire legare,</l>
                 <l><lb/>da qui <hi rend="italic">glutinum</hi> &#34;la colla&#34;. <hi rend="italic">Corruptor</hi> (i.e. corruttore) si dice delle vergini </l>
-                <l><lb/>e anche colui che compra le sentenze. <hi rend="italic">Nequiter</hi> vuol dire licenziosamente</l>
-                <l><lb/>e malvagiamente, da qui <hi rend="italic">nequam</hi> (i.e. male) per sincope da <hi rend="italic">nequicquam</hi> (i.e. invano).</l>
-                <l><lb/>Dal greco _____ cioè fingere, da qui <hi rend="italic">hypocrita</hi> (i.e. mimo). <hi rend="italic">Castus</hi> (i.e. casto)</l>
+                <l><lb/>e anche colui che compra le sentenze. <hi rend="italic">Nequiter</hi> vuol
+                    dire licenziosamente</l>
+                <l><lb/>e malvagiamente, da qui <hi rend="italic">nequam</hi> (i.e. male) per
+                    sincope da <hi rend="italic">nequicquam</hi> (i.e. invano).</l>
+                <l><lb/>Dal greco _____ cioè fingere, da qui <hi rend="italic">hypocrita</hi> (i.e.
+                    mimo). <hi rend="italic">Castus</hi> (i.e. casto)</l>
                 <l><lb/>relativo sia al corpo sia ad altre cose. I censori erano due </l>
                 <l><lb/>maestri di vita che si occupavano dei costumi degli uomini, uno</l>
                 <l><lb/>plebeo, l'altro nobile, che, restando in carica per cinque anni, </l>
                 <l><lb/>potevano talora condannare anche quelli che non erano accusati,</l>
-                <l><lb/>da qui la nota censoria. <hi rend="italic">Profanus</hi> (i.e. profano) ossia lontano dal tempio. <hi rend="italic">Interdiu</hi></l>
-                <l><lb/>vuol dire durante il giorno. L'<hi rend="italic">occasio</hi> è un'opportunità che nasce secondo le circostanze</l>                                       
+                <l><lb/>da qui la nota censoria. <hi rend="italic">Profanus</hi> (i.e. profano)
+                    ossia lontano dal tempio. <hi rend="italic">Interdiu</hi></l>
+                <l><lb/>vuol dire durante il giorno. L'<hi rend="italic">occasio</hi> è
+                    un'opportunità che nasce secondo le circostanze</l>
             </ab>
             <p rend="bold">Pagina 8</p>
             <ab>
                 <l><lb/><hi rend="bold">ROMOLO</hi></l>
                 <l><lb/>e un attitudine ad agire, ______ un'occasione propizia,</l>
-                <l><lb/><hi rend="italic">causa</hi>, invece, si dice quella per cui viene fatto qualcosa.</l>
-                <l><lb/><hi rend="italic">Arbiter</hi> è un giudice scelto tra contendenti, talvolta colui che ascolta</l>
-                <l><lb/>ovvero l'uditore. <hi rend="italic">Strepitus</hi> è proprio dei piedi, <hi rend="italic">crepitus</hi> di cose inanimate</l>
-                <l><lb/>come si dice uno scontro di nemici o di armi. <hi rend="italic">Clamor</hi> è proprio degli uomini.</l>
-                <l><lb/><hi rend="italic">Consequens</hi> legato immediatamente, <hi rend="italic">consecutio</hi> ampiamente dopo</l>
-                <l><lb/>la cosa. <hi rend="italic">Conscientia</hi> si usa di per sé per una cosa cattiva. </l>
-                <l><lb/><hi rend="italic">Locus communis</hi> è quello che può essere citato sia a favore sia contro, <hi rend="italic">proprius</hi> è</l>
-                <l><lb/>quello che non può essere indotto nell'opposto. <hi rend="italic">Calumnia</hi> è</l>
-                <l><lb/>una falsa accusa. <hi rend="italic">Quaestio</hi> è un argomento dubbio secondo</l>
-                <l><lb/>i dialettici, tuttavia talvolta anche processo, talvolta ciò che qualcuno</l>
-                <l><lb/>confessa sotto tortura. <hi rend="italic">Quaestor</hi> ogni tanto equivale a giudice</l>
+                <l><lb/><hi rend="italic">causa</hi>, invece, si dice quella per cui viene fatto
+                    qualcosa.</l>
+                <l><lb/><hi rend="italic">Arbiter</hi> è un giudice scelto tra contendenti, talvolta
+                    colui che ascolta</l>
+                <l><lb/>ovvero l'uditore. <hi rend="italic">Strepitus</hi> è proprio dei piedi, <hi
+                        rend="italic">crepitus</hi> di cose inanimate</l>
+                <l><lb/>come si dice uno scontro di nemici o di armi. <hi rend="italic">Clamor</hi>
+                    è proprio degli uomini.</l>
+                <l><lb/><hi rend="italic">Consequens</hi> legato immediatamente, <hi rend="italic"
+                        >consecutio</hi> ampiamente dopo</l>
+                <l><lb/>la cosa. <hi rend="italic">Conscientia</hi> si usa di per sé per una cosa
+                    cattiva. </l>
+                <l><lb/><hi rend="italic">Locus communis</hi> è quello che può essere citato sia a
+                    favore sia contro, <hi rend="italic">proprius</hi> è</l>
+                <l><lb/>quello che non può essere indotto nell'opposto. <hi rend="italic"
+                        >Calumnia</hi> è</l>
+                <l><lb/>una falsa accusa. <hi rend="italic">Quaestio</hi> è un argomento dubbio
+                    secondo</l>
+                <l><lb/>i dialettici, tuttavia talvolta anche processo, talvolta ciò che
+                    qualcuno</l>
+                <l><lb/>confessa sotto tortura. <hi rend="italic">Quaestor</hi> ogni tanto equivale
+                    a giudice</l>
                 <l><lb/>dei delitti. <hi rend="italic">Auctoritas</hi> è un parere degno di</l>
-                <l><lb/>imitazione. <hi rend="italic">Comminisci</hi> vuol dire inventare, di qui <hi rend="italic">commentum</hi> (i.e. invenzione). <hi rend="italic">Tortor</hi></l>
-                <l><lb/>è colui che tormenta e tortura. <hi rend="italic">Probabile</hi> tra i retori</l>
-                <l><lb/>è ciò che è verosimile e credibile. <hi rend="italic">Offendo</hi> vuol dire danneggiare. <hi rend="italic">Invenio</hi> (i.e. trovare) </l>
-                <l><lb/>talvolta significa incontrare. <hi rend="italic">Stipulatio</hi> è una promessa solenne </l>
+                <l><lb/>imitazione. <hi rend="italic">Comminisci</hi> vuol dire inventare, di qui
+                        <hi rend="italic">commentum</hi> (i.e. invenzione). <hi rend="italic"
+                        >Tortor</hi></l>
+                <l><lb/>è colui che tormenta e tortura. <hi rend="italic">Probabile</hi> tra i
+                    retori</l>
+                <l><lb/>è ciò che è verosimile e credibile. <hi rend="italic">Offendo</hi> vuol dire
+                    danneggiare. <hi rend="italic">Invenio</hi> (i.e. trovare) </l>
+                <l><lb/>talvolta significa incontrare. <hi rend="italic">Stipulatio</hi> è una
+                    promessa solenne </l>
                 <l><lb/>con una norma, talvolta un'argomentazione in seguito ad una</l>
-                <l><lb/>replica, come &#171;<q>scrivi a me questo libro</q>&#187; e &#171;<q>scriverò ciò che è bello</q></l>
+                <l><lb/>replica, come &#171;<q>scrivi a me questo libro</q>&#187; e
+                        &#171;<q>scriverò ciò che è bello</q></l>
                 <l><lb/><q>negli arredi</q>&#187;. <hi rend="italic">Abrogo</hi> riguarda tutto,</l>
                 <l><lb/>derogo una parte. Prima del venticinquesimo anno non </l>
-                <l><lb/>si può essere eletti console. <hi rend="italic">Sanctio</hi> è una legge che garantisce ciò che decretava con una pena,</l>
-                <l><lb/>detta da <hi rend="italic">sanguis</hi> (i.e. sangue). Perciò la potestà tributizia </l>
+                <l><lb/>si può essere eletti console. <hi rend="italic">Sanctio</hi> è una legge che
+                    garantisce ciò che decretava con una pena,</l>
+                <l><lb/>detta da <hi rend="italic">sanguis</hi> (i.e. sangue). Perciò la potestà
+                    tributizia </l>
             </ab>
             <p rend="bold">Pagina 9</p>
             <ab>
                 <l><lb/><hi rend="bold">BRUTO</hi></l>
-                <l><lb/>era detta sacrosanta. <hi rend="italic">Am</hi> attorno, _____ collocare, _____</l>
-                <l><lb/>discorso. <hi rend="italic">Amphibologia</hi> in un'orazione è una frase ambigua</l>
-                <l><lb/>che è creata dai dialettici. <hi rend="italic">Equivocatio</hi> è una molteplicità sia di senso</l>
-                <l><lb/>sia di significato in un unica parola come <hi rend="italic">canis</hi>. <hi rend="italic">Definitio</hi> (i.e. definizione) secondo i</l>
-                <l><lb/>dialettici differisce da <hi rend="italic">descriptio</hi> (i.e. descrizione), è anche una frase che mostra</l>
-                <l><lb/>che cosa sia l'essere proprio di una cosa attraverso la natura e alcuni aspetti sostanziali, </l>
-                <l><lb/>senza i quali non può esistere definizione, ad esempio &#171;<quote>l'uomo è un animale</quote></l>
-                <l><lb/><quote>dotato di ragione e mortale</quote>&#187;. Invece <hi rend="italic">descriptio</hi> è una frase che mostra l'essenza </l>
-                <l><lb/>di una cosa attraverso elementi accessori, vale a dire quelle cose che possono e non possono</l>
-                <l><lb/>esserci in una cosa, ad esempio &#171;<quote>l'uomo è bipede</quote>&#187;, poiché, anche se fosse privo dei piedi, </l>
-                <l><lb/>non smetterebbe tuttavia per questo motivo di essere un uomo. Suffragia sono alcune parole</l>
+                <l><lb/>era detta sacrosanta. <hi rend="italic">Am</hi> attorno, _____ collocare,
+                    _____</l>
+                <l><lb/>discorso. <hi rend="italic">Amphibologia</hi> in un'orazione è una frase
+                    ambigua</l>
+                <l><lb/>che è creata dai dialettici. <hi rend="italic">Equivocatio</hi> è una
+                    molteplicità sia di senso</l>
+                <l><lb/>sia di significato in un unica parola come <hi rend="italic">canis</hi>. <hi
+                        rend="italic">Definitio</hi> (i.e. definizione) secondo i</l>
+                <l><lb/>dialettici differisce da <hi rend="italic">descriptio</hi> (i.e.
+                    descrizione), è anche una frase che mostra</l>
+                <l><lb/>che cosa sia l'essere proprio di una cosa attraverso la natura e alcuni
+                    aspetti sostanziali, </l>
+                <l><lb/>senza i quali non può esistere definizione, ad esempio &#171;<quote>l'uomo è
+                        un animale</quote></l>
+                <l><lb/><quote>dotato di ragione e mortale</quote>&#187;. Invece <hi rend="italic"
+                        >descriptio</hi> è una frase che mostra l'essenza </l>
+                <l><lb/>di una cosa attraverso elementi accessori, vale a dire quelle cose che
+                    possono e non possono</l>
+                <l><lb/>esserci in una cosa, ad esempio &#171;<quote>l'uomo è bipede</quote>&#187;,
+                    poiché, anche se fosse privo dei piedi, </l>
+                <l><lb/>non smetterebbe tuttavia per questo motivo di essere un uomo. Suffragia sono
+                    alcune parole</l>
                 <l><lb/>del popolo adunato, cioè le espressioni dei voti, in volgare</l>
-                <l><lb/>&#34;la ballota&#34;. <hi rend="italic">Paralogismus</hi> da ______ , cioè ingannare in</l>
-                <l><lb/>un discorso ed è in modo disonesto, mentre <hi rend="italic">syllogismus</hi> da _______</l>
-                <l><lb/>_______ una dimostrazione in modo onesto. <hi rend="italic">Afficio</hi> vuol dire attribuire un pregio</l>
-                <l><lb/>o una colpa e non può essere espresso bene in volgare. <hi rend="italic">Libido</hi> (i.e. desiderio)</l>
-                <l><lb/>talvolta indica un desiderio sconsiderato. La <hi rend="italic">constitutio iuridicialis</hi> </l>
+                <l><lb/>&#34;la ballota&#34;. <hi rend="italic">Paralogismus</hi> da ______ , cioè
+                    ingannare in</l>
+                <l><lb/>un discorso ed è in modo disonesto, mentre <hi rend="italic"
+                        >syllogismus</hi> da _______</l>
+                <l><lb/>_______ una dimostrazione in modo onesto. <hi rend="italic">Afficio</hi>
+                    vuol dire attribuire un pregio</l>
+                <l><lb/>o una colpa e non può essere espresso bene in volgare. <hi rend="italic"
+                        >Libido</hi> (i.e. desiderio)</l>
+                <l><lb/>talvolta indica un desiderio sconsiderato. La <hi rend="italic">constitutio
+                        iuridicialis</hi>
+                </l>
                 <l><lb/>è creata da queste parole &#171;<q>se era necessario o</q></l>
-                <l><lb/><q>non era necessario, se doveva non doveva fare</q>&#187; eccetera. <hi rend="italic">Natura</hi> è</l>
-                <l><lb/>una certa essenza innata per noi. <hi rend="italic">Ius</hi> (i.e. diritto) è duplice, ossia scritto</l>
-                <l><lb/>e non scritto, quello scritto consiste nelle leggi, nei decreti del popolo e simili.</l>
-                <l><lb/><hi rend="italic">Ius naturale</hi> è ciò che la natura ha insegnato a tutti gli esseri viventi, tanto</l>
-                <l><lb/>tra animali quanto tra gli uomini, come l'uccellino con i i figli. <hi rend="italic">Ius gentium</hi></l>
+                <l><lb/><q>non era necessario, se doveva non doveva fare</q>&#187; eccetera. <hi
+                        rend="italic">Natura</hi> è</l>
+                <l><lb/>una certa essenza innata per noi. <hi rend="italic">Ius</hi> (i.e. diritto)
+                    è duplice, ossia scritto</l>
+                <l><lb/>e non scritto, quello scritto consiste nelle leggi, nei decreti del popolo e
+                    simili.</l>
+                <l><lb/><hi rend="italic">Ius naturale</hi> è ciò che la natura ha insegnato a tutti
+                    gli esseri viventi, tanto</l>
+                <l><lb/>tra animali quanto tra gli uomini, come l'uccellino con i i figli. <hi
+                        rend="italic">Ius gentium</hi></l>
             </ab>
             <p rend="bold">Pagina 10</p>
             <ab>
                 <l><lb/><hi rend="bold">CAMILLO</hi></l>
                 <l><lb/>indica ciò che viene fatto tra gli uomini, come chi si è sposato</l>
-                <l><lb/>mantenga la moglie. <hi rend="italic">Ius cognationis</hi> è ciò per cui il figlio rispetta e ama il padre </l>
+                <l><lb/>mantenga la moglie. <hi rend="italic">Ius cognationis</hi> è ciò per cui il
+                    figlio rispetta e ama il padre </l>
                 <l><lb/>e il padre rispetta e ama il figlio. ________ devozione verso gli déi. </l>
-                <l><lb/> <hi rend="italic">Interposita sententia senatus</hi> è quando il senato scriveva ai consoli</l>
-                <l><lb/>e ai governatori delle province che cosa fare. <hi rend="italic">Praetor</hi> </l>
-                <l><lb/>quasi <hi rend="italic">preitor</hi>, colui che ha il potere di interpretare, di aggiungere ed</l>
-                <l><lb/>eliminare le leggi ed era un cittadino romano e nominato con gli stessi auspici</l>
-                <l><lb/>con i quali era nominato anche il console. <hi rend="italic">Mandatum</hi> è l'incarico assunto al posto </l>
-                <l><lb/>di un altro gratuitamente, da qui <hi rend="bold">mandatarii</hi> sono coloro che accettano</l>
-                <l><lb/>il mandato. <hi rend="italic">Iudicium reddere</hi> significa presentare una sentenza </l>
-                <l><lb/>a favore del volere del richiedente. <hi rend="italic">Ex aequo et bono</hi> (i.e. secondo quanto è giusto ed equo) </l>
-                <l><lb/>si dice una volta che è stato eliminata per gli uomini quella famosa durezza, riguardo cui <persName ref="#Terenzio">Terenzio</persName> dice &#171;<quote>somma giustizia</quote></l>
-                <l><lb/><quote>equivale spesso a somma malizia</quote>&#187;. <hi rend="italic">Patronus</hi> è colui che difende nella causa come</l>
-                <l><lb/>l'oratore. <hi rend="italic">Advocatus</hi> è colui che è in grado di amministrare le leggi al quale</l>
-                <l><lb/>spesso ricorrono i difensori. <hi rend="italic">Procurator</hi> è colui che sostiene la causa di un presente, </l>
+                <l><lb/>
+                    <hi rend="italic">Interposita sententia senatus</hi> è quando il senato scriveva
+                    ai consoli</l>
+                <l><lb/>e ai governatori delle province che cosa fare. <hi rend="italic"
+                        >Praetor</hi>
+                </l>
+                <l><lb/>quasi <hi rend="italic">preitor</hi>, colui che ha il potere di
+                    interpretare, di aggiungere ed</l>
+                <l><lb/>eliminare le leggi ed era un cittadino romano e nominato con gli stessi
+                    auspici</l>
+                <l><lb/>con i quali era nominato anche il console. <hi rend="italic">Mandatum</hi> è
+                    l'incarico assunto al posto </l>
+                <l><lb/>di un altro gratuitamente, da qui <hi rend="bold">mandatarii</hi> sono
+                    coloro che accettano</l>
+                <l><lb/>il mandato. <hi rend="italic">Iudicium reddere</hi> significa presentare una
+                    sentenza </l>
+                <l><lb/>a favore del volere del richiedente. <hi rend="italic">Ex aequo et bono</hi>
+                    (i.e. secondo quanto è giusto ed equo) </l>
+                <l><lb/>si dice una volta che è stato eliminata per gli uomini quella famosa
+                    durezza, riguardo cui <persName ref="#Terenzio">Terenzio</persName> dice
+                        &#171;<quote>somma giustizia</quote></l>
+                <l><lb/><quote>equivale spesso a somma malizia</quote>&#187;. <hi rend="italic"
+                        >Patronus</hi> è colui che difende nella causa come</l>
+                <l><lb/>l'oratore. <hi rend="italic">Advocatus</hi> è colui che è in grado di
+                    amministrare le leggi al quale</l>
+                <l><lb/>spesso ricorrono i difensori. <hi rend="italic">Procurator</hi> è colui che
+                    sostiene la causa di un presente, </l>
                 <l><lb/>come avviene per un malato o per uno che ormai ha un'età avanzata.</l>
-                <l><lb/>Secondo gli esperti di legge, un <hi rend="italic">pactum</hi> (i.e. accordo) è di due o più</l>
-                <l><lb/>nella stessa opinione. Questo è composto di due parti, ossia senza leggi, come</l>
-                <l><lb/>&#171;<q>voglio  per questo cavallo otto monete d'oro</q>&#187;. L'altro risponde: &#171;<q>te ne darò sei.</q>&#187;</l>
-                <l><lb/>E così si accordano senza alcuna obbligazione pecuniaria ma con patti, in quanto </l>
-                <l><lb/>il venditore è tenuto a rivendicare il possesso al compratore. <hi rend="italic">Pago</hi>, <hi rend="italic">pagis</hi> è un verbo antico</l>
-                <l><lb/>che significa &#34;faccio un accordo&#34;, al posto del quale oggi noi diciamo <hi rend="italic">pango</hi> (i.e. pattuire).</l>
+                <l><lb/>Secondo gli esperti di legge, un <hi rend="italic">pactum</hi> (i.e.
+                    accordo) è di due o più</l>
+                <l><lb/>nella stessa opinione. Questo è composto di due parti, ossia senza leggi,
+                    come</l>
+                <l><lb/>&#171;<q>voglio per questo cavallo otto monete d'oro</q>&#187;. L'altro
+                    risponde: &#171;<q>te ne darò sei.</q>&#187;</l>
+                <l><lb/>E così si accordano senza alcuna obbligazione pecuniaria ma con patti, in
+                    quanto </l>
+                <l><lb/>il venditore è tenuto a rivendicare il possesso al compratore. <hi
+                        rend="italic">Pago</hi>, <hi rend="italic">pagis</hi> è un verbo antico</l>
+                <l><lb/>che significa &#34;faccio un accordo&#34;, al posto del quale oggi noi
+                    diciamo <hi rend="italic">pango</hi> (i.e. pattuire).</l>
             </ab>
             <p rend="bold">Pagina 11</p>
             <ab>
                 <l><lb/><hi rend="bold">FABIO</hi></l>
-                <l><lb/><hi rend="italic">Comitium</hi> è il luogo in cui <persName ref="#Romolo">Romolo</persName> e <persName ref="#TitoTazio">Tazio</persName>, re dei Sabini, </l>
-                <l><lb/>a <placeName ref="#Roma">Roma</placeName> si accordarono per comandare insieme e da questi stessi fu istituito.</l>
-                <l><lb/>Talvolta sono dette <hi rend="italic">comitia</hi> le elezioni dei consoli, talvolta</l>
-                <l><lb/>i periodi di elezione dei consoli da <hi rend="italic">con</hi> ed <hi rend="italic">eo</hi>, <hi rend="italic">is</hi> quasi <hi rend="italic">conicium</hi>.</l>
-                <l><lb/><hi rend="italic">Contendere</hi> (i.e. tendere) talvolta confrontare, togliere o</l>
-                <l><lb/>chiedere insistentemente. <hi rend="italic">Deterius</hi> (i.e. peggio) quando si paragona una cosa cattiva ad una </l>
-                <l><lb/>buona, mentre si usa <hi rend="italic">potius</hi> (i.e. meglio) per il contrario. <hi rend="italic">Dolus</hi> (i.e. astuzia) si usa</l>
-                <l><lb/>come cosa sia negativa sia positiva. <hi rend="italic">Pernicies</hi> (i.e. rovina) da <hi rend="italic">perneco</hi>, cioè distruggere.</l>
-                <l><lb/><hi rend="italic">Civitas</hi> è un gran numero di cittadini che vivono secondo la legge. <hi rend="italic">Concessio</hi> è quando </l>
-                <l><lb/>chiediamo che sia perdonato a noi qualcosa. <hi rend="italic"><placeName ref="#Eurota">Eurotas</placeName></hi> è un fiume spartano. <hi rend="italic">Casus</hi> è ciò che</l>
+                <l><lb/><hi rend="italic">Comitium</hi> è il luogo in cui <persName ref="#Romolo"
+                        >Romolo</persName> e <persName ref="#TitoTazio">Tazio</persName>, re dei
+                    Sabini, </l>
+                <l><lb/>a <placeName ref="#Roma">Roma</placeName> si accordarono per comandare
+                    insieme e da questi stessi fu istituito.</l>
+                <l><lb/>Talvolta sono dette <hi rend="italic">comitia</hi> le elezioni dei consoli,
+                    talvolta</l>
+                <l><lb/>i periodi di elezione dei consoli da <hi rend="italic">con</hi> ed <hi
+                        rend="italic">eo</hi>, <hi rend="italic">is</hi> quasi <hi rend="italic"
+                        >conicium</hi>.</l>
+                <l><lb/><hi rend="italic">Contendere</hi> (i.e. tendere) talvolta confrontare,
+                    togliere o</l>
+                <l><lb/>chiedere insistentemente. <hi rend="italic">Deterius</hi> (i.e. peggio)
+                    quando si paragona una cosa cattiva ad una </l>
+                <l><lb/>buona, mentre si usa <hi rend="italic">potius</hi> (i.e. meglio) per il
+                    contrario. <hi rend="italic">Dolus</hi> (i.e. astuzia) si usa</l>
+                <l><lb/>come cosa sia negativa sia positiva. <hi rend="italic">Pernicies</hi> (i.e.
+                    rovina) da <hi rend="italic">perneco</hi>, cioè distruggere.</l>
+                <l><lb/><hi rend="italic">Civitas</hi> è un gran numero di cittadini che vivono
+                    secondo la legge. <hi rend="italic">Concessio</hi> è quando </l>
+                <l><lb/>chiediamo che sia perdonato a noi qualcosa. <hi rend="italic"><placeName
+                            ref="#Eurota">Eurotas</placeName></hi> è un fiume spartano. <hi
+                        rend="italic">Casus</hi> è ciò che</l>
                 <l><lb/>capita all'improvviso a noi che non ne conosciamo la causa e può </l>
-                <l><lb/>essere relativo a ogni cosa in generale, mentre <hi rend="italic">fortuna</hi> è relativa solo </l>
-                <l><lb/>agli uomini, ogni qualvolta però si riferisce a cose che succedono insolitamente,</l>
-                <l><lb/>come un fiume ingrossato. _____ <hi rend="italic"> Malum facere</hi> secondo</l>
+                <l><lb/>essere relativo a ogni cosa in generale, mentre <hi rend="italic"
+                        >fortuna</hi> è relativa solo </l>
+                <l><lb/>agli uomini, ogni qualvolta però si riferisce a cose che succedono
+                    insolitamente,</l>
+                <l><lb/>come un fiume ingrossato. _____ <hi rend="italic"> Malum facere</hi>
+                    secondo</l>
                 <l><lb/>i filosofi morali è quando contrariamente ad una buona intenzione accade</l>
                 <l><lb/>un effetto negativo, come se un medico volesse liberare un malato</l>
-                <l><lb/>con una medicina e lo uccide, mentre <hi rend="italic">male facere</hi> </l>
-                <l><lb/>si dice del contrario. Così <hi rend="italic">bonum facere</hi> come se uno</l>
-                <l><lb/>liberasse qualcuno da una malattia incurabile, benché avesse l'intenzione</l>
-                <l><lb/>di ucciderlo, <hi rend="italic">bene facere</hi> invece indica il contrario: infatti è da</l>
-                <l><lb/>esaminare sempre l'intenzione. <hi rend="italic">Nobilis</hi> (i.e. nobile) si riferisce sia </l>
-                <l><lb/>alla stirpe sia alle imprese. <hi rend="italic">Supersedere</hi> significa tralasciare. </l>
-                <l><lb/><hi rend="italic">Propositio</hi> è ciò che presenta sommariamente un assaggio all'uditore</l>
+                <l><lb/>con una medicina e lo uccide, mentre <hi rend="italic">male facere</hi>
+                </l>
+                <l><lb/>si dice del contrario. Così <hi rend="italic">bonum facere</hi> come se
+                    uno</l>
+                <l><lb/>liberasse qualcuno da una malattia incurabile, benché avesse
+                    l'intenzione</l>
+                <l><lb/>di ucciderlo, <hi rend="italic">bene facere</hi> invece indica il contrario:
+                    infatti è da</l>
+                <l><lb/>esaminare sempre l'intenzione. <hi rend="italic">Nobilis</hi> (i.e. nobile)
+                    si riferisce sia </l>
+                <l><lb/>alla stirpe sia alle imprese. <hi rend="italic">Supersedere</hi> significa
+                    tralasciare. </l>
+                <l><lb/><hi rend="italic">Propositio</hi> è ciò che presenta sommariamente un
+                    assaggio all'uditore</l>
             </ab>
-            <p rend="bold">Pagina 12</p>   
+            <p rend="bold">Pagina 12</p>
             <ab>
                 <l><lb/><hi rend="bold">SCIPIONE MAGGIORE</hi></l>
-                <l><lb/>riguardo a ciò che si deve dire. <hi rend="italic">Ratio</hi> espone una cosa piccola con una spiegazione</l>
-                <l><lb/>senza queste particelle: <hi rend="italic">etsi</hi>, <hi rend="italic">quamquam</hi>, <hi>quamvis</hi> ecc. con le quali la giustizia</l>
-                <l><lb/>è nascosta retoricamente. <hi rend="italic">Honestas</hi> significa onorificenza. </l>
-                <l><lb/><hi rend="italic">Emolumentum</hi> significa profitto ed è derivato da coloro che macinano</l>
-                <l><lb/>il grano. <hi rend="italic">Compendium leve</hi> è un profitto minimo. <hi rend="italic">Commutare</hi> (i.e. scambiare)</l>
-                <l><lb/>in volgare si dice &#34;barrare&#34;.  <hi rend="italic">Integer</hi> è colui nel quale non c'è nessuna corruzione.</l>
-                <l><lb/><hi rend="italic">Ferae</hi> significa profondamente selvagge. <hi rend="italic">Ratio</hi> si utilizza per cose sia positive </l>
-                <l><lb/>sia negative. <hi rend="italic">Virtus</hi> significa una giusta conoscenza dei vizi </l>
-                <l><lb/>nelle mani di qualcuno e la virtù è una certa capacità conservativa dei beni ed acquisitiva secondo</l>
-                <l><lb/><persName ref="#Aristotele">Aristotele</persName>. <hi rend="italic">Hostes</hi> (i.e. nemici) sono pubblici, mentre <hi rend="italic">inimici</hi> (i.e. nemici) sono privati. </l>
-                <l><lb/><hi rend="italic">Aegritudo</hi> (i.e. malessere) è propria delle sofferenze dell'animo in generale, mentre <hi rend="italic">metus</hi></l>
-                <l><lb/>sono le parti che si assumono al posto della specie.  <hi rend="italic">Argos</hi> è una nave così chiamata</l>
-                <l><lb/>per la velocità, da qui <hi rend="italic">Argonautae</hi> come <persName ref="#Eracle">Ercole</persName> e <persName ref="#Giasone">Giasone</persName>.</l>
-                <l><lb/><hi rend="italic">Argus</hi> talvolta si impiega al posto di cieco, talvolta al posto di candido ed</l>
-                <l><lb/>è usato soprattutto per un veggente. <hi rend="italic">Noxa</hi>, come piace a <persName ref="#Servio">Servio</persName>,</l>
-                <l><lb/>è la pena. <hi rend="italic">Noxia</hi> vuol dire in realtà peccato o colpa, sebbene nei</l>
-                <l><lb/>codici antichi <hi rend="italic">noxia</hi> sia documentata scritta con la i. <hi rend="italic">Amor</hi></l>
-                <l><lb/>è generale. <hi rend="italic">Amicitia</hi> si definisce il reciproco amore sottoforma di bene</l>
-                <l><lb/>in ogni tempo. <hi rend="italic">Philosophia</hi> è l'amore per la conoscenza. La fortuna si dice</l>
-                <l><lb/>cieca poiché danneggia gli onesti e giova ai disonesti. <hi rend="italic">Insana</hi> vuol dire</l>
-                <l><lb/>furiosa senza un motivo, <hi rend="italic">bruta</hi> che non governa nulla con discernimento.</l>
-                <l><lb/><hi rend="italic">Fors</hi> (i.e. Fortuna) è una dea, <hi rend="italic">fortuna</hi> è la sorte. <hi rend="italic">Autumo</hi> </l>
+                <l><lb/>riguardo a ciò che si deve dire. <hi rend="italic">Ratio</hi> espone una
+                    cosa piccola con una spiegazione</l>
+                <l><lb/>senza queste particelle: <hi rend="italic">etsi</hi>, <hi rend="italic"
+                        >quamquam</hi>, <hi>quamvis</hi> ecc. con le quali la giustizia</l>
+                <l><lb/>è nascosta retoricamente. <hi rend="italic">Honestas</hi> significa
+                    onorificenza. </l>
+                <l><lb/><hi rend="italic">Emolumentum</hi> significa profitto ed è derivato da
+                    coloro che macinano</l>
+                <l><lb/>il grano. <hi rend="italic">Compendium leve</hi> è un profitto minimo. <hi
+                        rend="italic">Commutare</hi> (i.e. scambiare)</l>
+                <l><lb/>in volgare si dice &#34;barrare&#34;. <hi rend="italic">Integer</hi> è colui
+                    nel quale non c'è nessuna corruzione.</l>
+                <l><lb/><hi rend="italic">Ferae</hi> significa profondamente selvagge. <hi
+                        rend="italic">Ratio</hi> si utilizza per cose sia positive </l>
+                <l><lb/>sia negative. <hi rend="italic">Virtus</hi> significa una giusta conoscenza
+                    dei vizi </l>
+                <l><lb/>nelle mani di qualcuno e la virtù è una certa capacità conservativa dei beni
+                    ed acquisitiva secondo</l>
+                <l><lb/><persName ref="#Aristotele">Aristotele</persName>. <hi rend="italic"
+                        >Hostes</hi> (i.e. nemici) sono pubblici, mentre <hi rend="italic"
+                        >inimici</hi> (i.e. nemici) sono privati. </l>
+                <l><lb/><hi rend="italic">Aegritudo</hi> (i.e. malessere) è propria delle sofferenze
+                    dell'animo in generale, mentre <hi rend="italic">metus</hi></l>
+                <l><lb/>sono le parti che si assumono al posto della specie. <hi rend="italic"
+                        >Argos</hi> è una nave così chiamata</l>
+                <l><lb/>per la velocità, da qui <hi rend="italic">Argonautae</hi> come <persName
+                        ref="#Eracle">Ercole</persName> e <persName ref="#Giasone"
+                        >Giasone</persName>.</l>
+                <l><lb/><hi rend="italic">Argus</hi> talvolta si impiega al posto di cieco, talvolta
+                    al posto di candido ed</l>
+                <l><lb/>è usato soprattutto per un veggente. <hi rend="italic">Noxa</hi>, come piace
+                    a <persName ref="#Servio">Servio</persName>,</l>
+                <l><lb/>è la pena. <hi rend="italic">Noxia</hi> vuol dire in realtà peccato o colpa,
+                    sebbene nei</l>
+                <l><lb/>codici antichi <hi rend="italic">noxia</hi> sia documentata scritta con la
+                    i. <hi rend="italic">Amor</hi></l>
+                <l><lb/>è generale. <hi rend="italic">Amicitia</hi> si definisce il reciproco amore
+                    sottoforma di bene</l>
+                <l><lb/>in ogni tempo. <hi rend="italic">Philosophia</hi> è l'amore per la
+                    conoscenza. La fortuna si dice</l>
+                <l><lb/>cieca poiché danneggia gli onesti e giova ai disonesti. <hi rend="italic"
+                        >Insana</hi> vuol dire</l>
+                <l><lb/>furiosa senza un motivo, <hi rend="italic">bruta</hi> che non governa nulla
+                    con discernimento.</l>
+                <l><lb/><hi rend="italic">Fors</hi> (i.e. Fortuna) è una dea, <hi rend="italic"
+                        >fortuna</hi> è la sorte. <hi rend="italic">Autumo</hi>
+                </l>
             </ab>
             <p rend="bold">Pagina 13</p>
             <ab>
                 <l><lb/><hi rend="bold">ALESSANDRO</hi></l>
-                <l><lb/>secondo i comici significa dico. <hi rend="italic">Iocamur</hi> (i.e. scherzare) con un
-                    discorso, <hi rend="italic">ludimus</hi> (i.e. giocare)</l>
-                <l><lb/>sia con un oggetto sia con un gesto. Si dice <hi rend="italic">ludus privatus</hi> (i.e. gioco
-                    privato) un gioco tra amici,</l>
-                <l><lb/>ma <hi rend="italic">ludi publici</hi> (i.e. giochi pubblici) come &#171;<quote>Il quinto tratta dei
-                    giochi.</quote>&#187;</l>
-                <l><lb/><hi rend="italic">Iucundus</hi> (i.e. gradito) da <hi rend="italic">iuvo</hi> (i.e. far dilettare) </l>
-                <l><lb/>giacché diletta con utilità. <hi rend="italic">Iocosus</hi> (i.e. faceto) è il contrario. Sulla
-                    dimostrazione </l>
+                <l><lb/>secondo i comici significa dico. <hi rend="italic">Iocamur</hi> (i.e.
+                    scherzare) con un discorso, <hi rend="italic">ludimus</hi> (i.e. giocare)</l>
+                <l><lb/>sia con un oggetto sia con un gesto. Si dice <hi rend="italic">ludus
+                        privatus</hi> (i.e. gioco privato) un gioco tra amici,</l>
+                <l><lb/>ma <hi rend="italic">ludi publici</hi> (i.e. giochi pubblici) come
+                        &#171;<quote>Il quinto tratta dei giochi.</quote>&#187;</l>
+                <l><lb/><hi rend="italic">Iucundus</hi> (i.e. gradito) da <hi rend="italic"
+                        >iuvo</hi> (i.e. far dilettare) </l>
+                <l><lb/>giacché diletta con utilità. <hi rend="italic">Iocosus</hi> (i.e. faceto) è
+                    il contrario. Sulla dimostrazione </l>
                 <l><lb/>del ragionamento si fonda la vittoria. Dal greco _____ o</l>
                 <l><lb/>________ duplice epilogo, da _____ vale a dire</l>
-                <l><lb/>prendere. <hi rend="italic">Divorcium</hi> è la separazione dei congiunti, da <hi rend="italic">diverto</hi>, <hi rend="italic">-tis</hi> (i.e.
+                <l><lb/>prendere. <hi rend="italic">Divorcium</hi> è la separazione dei congiunti,
+                    da <hi rend="italic">diverto</hi>, <hi rend="italic">-tis</hi> (i.e.
                     separarsi).</l>
-                <l><lb/><hi rend="italic">Repudium</hi> è la separazione tra non ancora congiunti. <hi rend="italic">Uxor</hi></l>
-                <l><lb/>come se fosse <hi rend="italic">unxor</hi> da <hi rend="italic">ungo</hi> (i.e. ungere). <hi rend="italic">Conciliare</hi> vuol dire riunire.
-                    <hi rend="italic">Reconciliare</hi></l>
+                <l><lb/><hi rend="italic">Repudium</hi> è la separazione tra non ancora congiunti.
+                        <hi rend="italic">Uxor</hi></l>
+                <l><lb/>come se fosse <hi rend="italic">unxor</hi> da <hi rend="italic">ungo</hi>
+                    (i.e. ungere). <hi rend="italic">Conciliare</hi> vuol dire riunire. <hi
+                        rend="italic">Reconciliare</hi></l>
                 <l><lb/>vuol dire riportare i separati al precedente volere favorevole.</l>
-                <l><lb/><hi rend="italic">Factiosus</hi> (i.e. uomo di parte) volgarmente si dice &#34;capo de parte&#34;. <hi rend="italic">Quadruplator</hi> secondo</l>
-                <l><lb/><persName ref="#AsconioPediano">Asconio Pediano</persName> è il delatore che riceve </l>
-                <l><lb/>la quarta parte della condanna dell'accusato. <hi rend="italic">Sicarius</hi> (i.e. assassino) da
-                    <hi rend="italic">sica</hi>, una specie di spada</l>
+                <l><lb/><hi rend="italic">Factiosus</hi> (i.e. uomo di parte) volgarmente si dice
+                    &#34;capo de parte&#34;. <hi rend="italic">Quadruplator</hi> secondo</l>
+                <l><lb/><persName ref="#AsconioPediano">Asconio Pediano</persName> è il delatore che
+                    riceve </l>
+                <l><lb/>la quarta parte della condanna dell'accusato. <hi rend="italic"
+                        >Sicarius</hi> (i.e. assassino) da <hi rend="italic">sica</hi>, una specie
+                    di spada</l>
                 <l><lb/>o lancia. I tribuni militari nell'esercito erano a capo </l>
-                <l><lb/>dei soldati, detti da &#34;mille&#34; poiché avevano sotto di sé mille soldati. </l>
+                <l><lb/>dei soldati, detti da &#34;mille&#34; poiché avevano sotto di sé mille
+                    soldati. </l>
                 <l><lb/>_____ si dice mille e ____ , da qui _____</l>
-                <l><lb/>tribuno militare. <hi rend="italic">Aemulus</hi> (i.e. emulo) in volgare si dice &#34;lo
-                    concorrente&#34;.</l>
-                <l><lb/><hi rend="italic">Ambitus</hi> è il crimine di colui che cerca di ottenere qualcosa dai giudici per
-                    mezzo del denaro. </l>
-                <l><lb/><hi rend="italic">Observare</hi> vuol dire stare attento scrupolosamente, talvolta riverire</l>
-                <l><lb/>gli antenati. <hi rend="italic">Deprehendere</hi> vuol dire scoprire qualcuno in errore o </l>
-                <l><lb/>in difetto. Si definisce <hi rend="italic">scientia</hi> quella già appresa, mentre <hi rend="italic">doctrina</hi></l>
-                <l><lb/>quando è tramandata all'alunno. <hi rend="italic">Praeditus</hi> (i.e. dotato) si dice</l>
-                <l><lb/>di un bene, di un male e del valore. Da _____ <hi rend="italic">efferre</hi> (i.e.
-                    elevare),</l>
+                <l><lb/>tribuno militare. <hi rend="italic">Aemulus</hi> (i.e. emulo) in volgare si
+                    dice &#34;lo concorrente&#34;.</l>
+                <l><lb/><hi rend="italic">Ambitus</hi> è il crimine di colui che cerca di ottenere
+                    qualcosa dai giudici per mezzo del denaro. </l>
+                <l><lb/><hi rend="italic">Observare</hi> vuol dire stare attento scrupolosamente,
+                    talvolta riverire</l>
+                <l><lb/>gli antenati. <hi rend="italic">Deprehendere</hi> vuol dire scoprire
+                    qualcuno in errore o </l>
+                <l><lb/>in difetto. Si definisce <hi rend="italic">scientia</hi> quella già appresa,
+                    mentre <hi rend="italic">doctrina</hi></l>
+                <l><lb/>quando è tramandata all'alunno. <hi rend="italic">Praeditus</hi> (i.e.
+                    dotato) si dice</l>
+                <l><lb/>di un bene, di un male e del valore. Da _____ <hi rend="italic">efferre</hi>
+                    (i.e. elevare),</l>
             </ab>
-            <p rend="bold">Pagina 14</p> 
+            <p rend="bold">Pagina 14</p>
             <ab>
                 <l><lb/><hi rend="bold">ANNIBALE</hi></l>
                 <l><lb/>esaltare lodando. Talvolta insuperbire, talvolta </l>
-                <l><lb/>portare alla sepoltura. <hi rend="italic">Viritim</hi> vuol dire diviso singolarmente.</l>
-                <l><lb/>Sono chiamati <hi rend="italic">praesidium</hi> i soldati condotti a tutela</l>
-                <l><lb/>della città. <hi rend="italic">Delectus</hi> (i.e. la leva) volgarmente si dice &#34;li cernudi&#34;. <hi rend="italic">Causam</hi></l>
-                <l><lb/><hi rend="italic">dicere</hi> vuol dire difendersi. Un <hi rend="italic">exemplum</hi> è </l>
-                <l><lb/>con il nome proprio di un determinato autore, come &#171;<quote>così dice <persName ref="#Orazio">Orazio</persName>, così dice <persName ref="#Virgilio">Virgilio</persName></quote>&#187;.</l>
-                <l><lb/><hi rend="italic">Iudicatum</hi> è una sentenza espressa. <hi rend="italic">Ordo</hi> è</l>
-                <l><lb/>una norma. <hi rend="italic">Quantitas</hi> è ripetizione breve e senz'altro chiara </l>
-                <l><lb/>di parole. <hi rend="italic">Certitudo</hi> è la spiegazione delle argomentazioni affinché</l>
+                <l><lb/>portare alla sepoltura. <hi rend="italic">Viritim</hi> vuol dire diviso
+                    singolarmente.</l>
+                <l><lb/>Sono chiamati <hi rend="italic">praesidium</hi> i soldati condotti a
+                    tutela</l>
+                <l><lb/>della città. <hi rend="italic">Delectus</hi> (i.e. la leva) volgarmente si
+                    dice &#34;li cernudi&#34;. <hi rend="italic">Causam</hi></l>
+                <l><lb/><hi rend="italic">dicere</hi> vuol dire difendersi. Un <hi rend="italic"
+                        >exemplum</hi> è </l>
+                <l><lb/>con il nome proprio di un determinato autore, come &#171;<quote>così dice
+                            <persName ref="#Orazio">Orazio</persName>, così dice <persName
+                            ref="#Virgilio">Virgilio</persName></quote>&#187;.</l>
+                <l><lb/><hi rend="italic">Iudicatum</hi> è una sentenza espressa. <hi rend="italic"
+                        >Ordo</hi> è</l>
+                <l><lb/>una norma. <hi rend="italic">Quantitas</hi> è ripetizione breve e senz'altro
+                    chiara </l>
+                <l><lb/>di parole. <hi rend="italic">Certitudo</hi> è la spiegazione delle
+                    argomentazioni affinché</l>
                 <l><lb/>gli ascoltatori capiscano, ma queste sono unite in un periodo. </l>
                 <l><lb/><hi rend="italic">Amplificatio</hi> è un moto di indignazione</l>
                 <l><lb/>degli ascoltatori nei confronti degli avversari. Altre volte</l>
-                <l><lb/>è solita essere impiegata al posto di <hi rend="italic">dilatio</hi> (i.e. rinvio) </l>
-                <l><lb/>e <hi rend="italic">argumentatio</hi> (i.e. argomentazione). Equivalgono alle tre</l>
-                <l><lb/>unità di misura per l'uomo: animo, corpo e circostanze della sorte. <hi rend="italic">Alacer</hi> (i.e. alacre)</l>
-                <l><lb/>equivale per così dire &#34;pronto con l'ala&#34;. <hi rend="italic">Facinus</hi> (i.e. azione) è una <hi rend="italic">vox media</hi>.  <hi rend="italic">Nefarium</hi></l>
+                <l><lb/>è solita essere impiegata al posto di <hi rend="italic">dilatio</hi> (i.e.
+                    rinvio) </l>
+                <l><lb/>e <hi rend="italic">argumentatio</hi> (i.e. argomentazione). Equivalgono
+                    alle tre</l>
+                <l><lb/>unità di misura per l'uomo: animo, corpo e circostanze della sorte. <hi
+                        rend="italic">Alacer</hi> (i.e. alacre)</l>
+                <l><lb/>equivale per così dire &#34;pronto con l'ala&#34;. <hi rend="italic"
+                        >Facinus</hi> (i.e. azione) è una <hi rend="italic">vox media</hi>. <hi
+                        rend="italic">Nefarium</hi></l>
                 <l><lb/>ciò che non può essere purgato con la farina o che non può essere detto. </l>
-                <l><lb/><hi rend="italic">Singulare</hi> è ciò che manca di un modello e ciò che non ammette paragone </l>
-                <l><lb/>o iperbole. <hi rend="italic">Volumen</hi> talvolta indica l'intera opera talvolta una parte, vale a dire un solo libro</l>
-                <l><lb/>da un elenco di altri come vediamo nei poeti. La dottrina è nel maestro, mentre</l>
-                <l><lb/>la comprensione nell'allievo. <hi rend="italic">Industria</hi> è un impegno</l>
-                <l><lb/>nelle cose nobili.  <hi rend="italic">Occupare</hi> significa prendere una cosa altrui </l>
-                <l><lb/>oppure prevenire. <hi rend="italic">Dare civitatem</hi> significa rendere cittadino.</l>
+                <l><lb/><hi rend="italic">Singulare</hi> è ciò che manca di un modello e ciò che non
+                    ammette paragone </l>
+                <l><lb/>o iperbole. <hi rend="italic">Volumen</hi> talvolta indica l'intera opera
+                    talvolta una parte, vale a dire un solo libro</l>
+                <l><lb/>da un elenco di altri come vediamo nei poeti. La dottrina è nel maestro,
+                    mentre</l>
+                <l><lb/>la comprensione nell'allievo. <hi rend="italic">Industria</hi> è un
+                    impegno</l>
+                <l><lb/>nelle cose nobili. <hi rend="italic">Occupare</hi> significa prendere una
+                    cosa altrui </l>
+                <l><lb/>oppure prevenire. <hi rend="italic">Dare civitatem</hi> significa rendere
+                    cittadino.</l>
             </ab>
             <p rend="bold">Pagina 15</p>
             <ab>
                 <l><lb/><hi rend="bold">VESPASIANO</hi></l>
-                <l><lb/>Per vanagloria dimostrare. <hi rend="italic">Arrogantia</hi> (i.e. arroganza) è
-                    un'eccessiva</l>
+                <l><lb/>Per vanagloria dimostrare. <hi rend="italic">Arrogantia</hi> (i.e.
+                    arroganza) è un'eccessiva</l>
                 <l><lb/>stima di sè ed è più grave di tutti gli altri vizi.</l>
-                <l><lb/><hi rend="italic">Poema</hi> (i.e. poema) è l'opera di <persName ref="#Virgilio">Virgilio</persName>, mentre si
-                    chiama <hi rend="italic">poesis</hi> la stessa arte poetica. </l>
+                <l><lb/><hi rend="italic">Poema</hi> (i.e. poema) è l'opera di <persName
+                        ref="#Virgilio">Virgilio</persName>, mentre si chiama <hi rend="italic"
+                        >poesis</hi> la stessa arte poetica. </l>
                 <l><lb/>Si dice <hi rend="italic">curriculum</hi> (i.e. corsa) per la carriera. Un
-                    <hi rend="italic">exemplum</hi> (i.e. esempio) chiarifica, </l>
+                        <hi rend="italic">exemplum</hi> (i.e. esempio) chiarifica, </l>
                 <l><lb/>mentre un <hi rend="italic">testimonium</hi> (i.e. testimonianza) asserisce
                     e devono corrispondere alla realtà.</l>
                 <l><lb/><hi rend="italic">Scribere de arte</hi> significa stabilire le regole. <hi
-                    rend="italic">Scribere ex arte</hi> vuol dire </l>
+                        rend="italic">Scribere ex arte</hi> vuol dire </l>
                 <l><lb/>seguire le regole. <hi rend="italic">Arduus</hi> (i.e. difficile) si
                     riferisce ad uno sforzo, talvolta</l>
                 <l><lb/>all'arte della conoscenza e all'intelligenza. Una <hi rend="italic">res
-                    ardua</hi> è</l>
+                        ardua</hi> è</l>
                 <l><lb/>una cosa faticosa e priva di onore. <hi rend="italic">Rudis</hi> vuol dire
                     inesperto</l>
-                <l><lb/>e che è senza talento. <hi rend="italic">Eruditus</hi> è come &#34;fuori dal rozzo&#34;, chi </l>
-                <l><lb/>conosce tutto. <hi rend="italic">Doctus</hi> chi è istruito
-                    sufficientemente bene. In realtà <hi rend="italic">eruditus</hi></l>
+                <l><lb/>e che è senza talento. <hi rend="italic">Eruditus</hi> è come &#34;fuori dal
+                    rozzo&#34;, chi </l>
+                <l><lb/>conosce tutto. <hi rend="italic">Doctus</hi> chi è istruito sufficientemente
+                    bene. In realtà <hi rend="italic">eruditus</hi></l>
                 <l><lb/>non significa solo istruito, ma anche raffinato ed elegante. <hi
-                    rend="italic">Sententia</hi> è</l>
-                <l><lb/>il <hi rend="italic">sensum</hi> di una qualche cosa. Si declina infatti al neutro <hi rend="italic">sensum</hi> se
-                    la sentenza</l>
+                        rend="italic">Sententia</hi> è</l>
+                <l><lb/>il <hi rend="italic">sensum</hi> di una qualche cosa. Si declina infatti al
+                    neutro <hi rend="italic">sensum</hi> se la sentenza</l>
                 <l><lb/>è un concetto ripreso dalla vita reale, come il <hi rend="italic">color</hi>
                     oratorio quando </l>
                 <l><lb/>indichiamo qualcosa di morale: questa è chiamata sententia. Dimostrare si
@@ -853,33 +1051,39 @@
                 <l><lb/><hi rend="italic">obtinere</hi>. Si chiama <hi rend="italic">testa</hi> ogni
                     utensile di terracotta. <hi rend="italic">Coram</hi> (i.e. davanti) è </l>
                 <l><lb/>una preposizione, talvolta un avverbio che significa &#34;in presenza&#34;. </l>
-                <l><lb/><persName ref="#Virgilio">Virgilio</persName>, &#171;<quote>sono qui davanti io, quello che cercate</quote>&#187;. Talvolta</l>
-                <l><lb/>ciò si dice in volgare &#34;a bocca&#34;. La letteratura greca è esaltata dal mondo romano</l>
-                <l><lb/>soprattutto prima di <persName ref="#Cicerone">Cicerone</persName>. <persName ref="#Orazio">Orazio</persName>, &#171;<quote>sfogliate gli esemplari greci di
-                    notte</quote></l>
-                <l><lb/><quote>e di giorno</quote>&#187;. Tre sono gli stili o i generi del discorso, vale a dire</l>
-                <l><lb/>semplice come nelle <hi rend="italic">Bucoliche</hi> di <persName ref="#Virgilio">Virgilio</persName>, medio come</l>
-            </ab>                              
+                <l><lb/><persName ref="#Virgilio">Virgilio</persName>, &#171;<quote>sono qui davanti
+                        io, quello che cercate</quote>&#187;. Talvolta</l>
+                <l><lb/>ciò si dice in volgare &#34;a bocca&#34;. La letteratura greca è esaltata
+                    dal mondo romano</l>
+                <l><lb/>soprattutto prima di <persName ref="#Cicerone">Cicerone</persName>.
+                        <persName ref="#Orazio">Orazio</persName>, &#171;<quote>sfogliate gli
+                        esemplari greci di notte</quote></l>
+                <l><lb/><quote>e di giorno</quote>&#187;. Tre sono gli stili o i generi del
+                    discorso, vale a dire</l>
+                <l><lb/>semplice come nelle <hi rend="italic">Bucoliche</hi> di <persName
+                        ref="#Virgilio">Virgilio</persName>, medio come</l>
+            </ab>
             <p rend="bold">Pagina 16</p>
             <ab>
-                <l><lb/>nelle <hi rend="italic">Georgiche</hi>, solenne ed elevato come nell'<hi rend="italic">Eneide</hi>. Gli <hi rend="italic"
-                    >optimates</hi> (i. e. aristocratici)</l>
+                <l><lb/>nelle <hi rend="italic">Georgiche</hi>, solenne ed elevato come nell'<hi
+                        rend="italic">Eneide</hi>. Gli <hi rend="italic">optimates</hi> (i. e.
+                    aristocratici)</l>
                 <l><lb/>sono i più potenti e gli uomini di prim'ordine della città. Si parla di <hi
-                    rend="italic">dominatus</hi> (i.e. tirannia) e <hi rend="italic"
+                        rend="italic">dominatus</hi> (i.e. tirannia) e <hi rend="italic"
                         >dominatio</hi> (i.e. tirannide) </l>
                 <l><lb/>per qualcosa di crudele, come per esempio un tiranno, mentre di <hi
-                    rend="italic">imperium</hi> (i. e. potere) per qualcosa di legittimo. </l>
+                        rend="italic">imperium</hi> (i. e. potere) per qualcosa di legittimo. </l>
                 <l><lb/>Quando parliamo dell'arte della guerra si utilizza <hi rend="italic"
-                    >virtus</hi> (i.e. valore) al posto di <hi rend="italic">fortitudo</hi>
+                        >virtus</hi> (i.e. valore) al posto di <hi rend="italic">fortitudo</hi>
                     (i.e. forza). </l>
                 <l><lb/>Tre cose sono richieste per fare una guerra: </l>
                 <l><lb/>un gran numero di soldati, un abile comandante, un'ingente somma di
                     denaro.</l>
                 <l><lb/><hi rend="italic">Descio</hi>, <hi rend="italic">descisco</hi> e <hi
-                    rend="italic">defio</hi> sono uguali a <hi rend="italic">rebello</hi> (i.e.
+                        rend="italic">defio</hi> sono uguali a <hi rend="italic">rebello</hi> (i.e.
                     ribellarsi).</l>
                 <l><lb/><hi rend="italic">Imperitus</hi> vuol dire inesperto. <hi rend="italic"
-                    >Alveus</hi> indica la vasca di pietra</l>
+                        >Alveus</hi> indica la vasca di pietra</l>
                 <l><lb/>dove veniva fatto il bagno, in volgare &#34;el lavello&#34;. Il ventre è
                     chiamato</l>
                 <l><lb/><hi rend="italic">alvus</hi>. <hi rend="italic">Petulans</hi> vuol dire
@@ -887,7 +1091,7 @@
                 <l><lb/>è il luogo dove è calcolata la misura del sole nel quale gli uomini dotti
                     sono soliti stare.</l>
                 <l><lb/><hi rend="italic">Scurra</hi> (i.e. fannullone), da <hi rend="italic"
-                    >discurrendo</hi> (i.e. correndo qua e là), si dice a causa della gola.</l>
+                        >discurrendo</hi> (i.e. correndo qua e là), si dice a causa della gola.</l>
                 <l><lb/><hi rend="italic">Pedagogus</hi> è colui che insegna al ragazzo ad andare e
                     a propendere verso le cose più importanti.</l>
                 <l><lb/><hi rend="italic">Fabrico</hi> e <hi rend="italic">fabricor</hi> (i.e.
@@ -895,33 +1099,49 @@
                     stesso modo</l>
                 <l><lb/>e talora significa spesso. <hi rend="italic">Expedire</hi> (i.e. liberare)
                     in volgare</l>
-                <l><lb/>si dice &#34;desbratare&#34;. Cartagine è doppia, vale a dire l'<placeName ref="#Cartaginevecchia">antica</placeName></l>
-                <l><lb/>in Africa e la <placeName ref="#Cartaginenuova">nuova</placeName> in Spagna. Doppio è il foro, vale a dire</l>
+                <l><lb/>si dice &#34;desbratare&#34;. Cartagine è doppia, vale a dire l'<placeName
+                        ref="#Cartaginevecchia">antica</placeName></l>
+                <l><lb/>in Africa e la <placeName ref="#Cartaginenuova">nuova</placeName> in Spagna.
+                    Doppio è il foro, vale a dire</l>
                 <l><lb/>il Foro Venale e il Foro Forense. <hi rend="italic">Deprecor</hi> (i.e.
                     implorare) talora anche</l>
                 <l><lb/>allontanare. La <hi rend="italic">conversio</hi> (i.e. antistrofe) ripete le
                     parole finali. La <hi rend="italic">repetitio</hi> (i.e. anafora) invece</l>
                 <l><lb/>le parole iniziali. <hi rend="italic">Existimatio</hi> è una buona
                     reputazione di sé.</l>
-                <l><lb/><persName ref="#LudovicoSforza">Ludovico Maria Sforza</persName> visconte di 15 anni </l>
+                <l><lb/><persName ref="#LudovicoSforza">Ludovico Maria Sforza</persName> visconte di
+                    15 anni </l>
                 <l><lb/>e 4 mesi, di propria mano nel giorno 27 Novembre</l>
                 <l><lb/>1467.</l>
                 <l><lb/><placeName ref="#Cremona">Cremona</placeName>.</l>
-            </ab>                       
-                    </front>
+            </ab>
+        </front>
         <body>
             <pb n="1" xml:id="pagina1" facs="data/images/single/1.jpg"/>
             <p rend="bold">Il quaderno di Ludovico Sforza</p>
             <l><lb n="1"/>Etsi coniunctio convenientius cum</l>
             <l><lb n="2"/>subiuntivi modi verbo iungitur. Citatur</l>
-            <l><lb n="3"/>Rhetorica Nova, <quote>&#171;etsi negotiis
-                familiaribus&#187;</quote>.</l>
-            <l><lb n="4"/>Quamquam vero sepius cum indicativo iungitur.
-                <persName ref="#Virgilio">Vir</persName>, secundo</l>
-            <l><lb n="5"/><choice><orig>Eneidos</orig><reg>Aeneidos</reg></choice> <quote>quamquam animus meminisse horret</quote>. <choice><orig>Ocium</orig><reg>Otium</reg></choice> a <choice><orig>grego</orig><reg>graeco</reg></choice> <del hand="#LudovicoSforza">n</del></l>
+            <l><lb n="3"/>Rhetorica Nova, <quote>&#171;etsi negotiis familiaribus&#187;</quote>.</l>
+            <l><lb n="4"/>Quamquam vero sepius cum indicativo iungitur. <persName ref="#Virgilio"
+                    >Vir</persName>, secundo</l>
+            <l><lb n="5"/><choice>
+                    <orig>Eneidos</orig>
+                    <reg>Aeneidos</reg>
+                </choice>
+                <quote>quamquam animus meminisse horret</quote>. <choice>
+                    <orig>Ocium</orig>
+                    <reg>Otium</reg>
+                </choice> a <choice>
+                    <orig>grego</orig>
+                    <reg>graeco</reg>
+                </choice>
+                <del hand="#LudovicoSforza">n</del></l>
             <l><lb n="6"/>id est velocitas. Interdum studium, interdum</l>
             <l><lb n="7"/>vero quietem significat. Inde negotium quasi negans</l>
-            <l><lb n="8"/><choice><orig>ocium</orig><reg>otium</reg></choice>. Studium est vehemens animi applicatio</l>
+            <l><lb n="8"/><choice>
+                    <orig>ocium</orig>
+                    <reg>otium</reg>
+                </choice>. Studium est vehemens animi applicatio</l>
             <l><lb n="9"/>ad aliquid peragendum summa cum voluntate</l>
             <l><lb n="10"/>et est generalius et maius quam voluntas. Suppeditare,</l>
             <l><lb n="11"/>subiungere, &#8224;subij&#8224; et subministrare aliquando </l>
@@ -938,8 +1158,8 @@
                     <orig>diffinitam</orig>
                     <reg>definita</reg>
                 </choice> a doctissimis viris.</l>
-            <l><lb n="16"/>Secundum <persName ref="#Zenone">Zenonem</persName>manui extense, dialectica
-                vero</l>
+            <l><lb n="16"/>Secundum <persName ref="#Zenone">Zenonem</persName>manui extense,
+                dialectica vero</l>
             <l><lb n="17"/>manui clause comparatur. Ars est collectio <choice>
                     <orig>quedam</orig>
                     <reg>quaedam</reg>
@@ -956,19 +1176,28 @@
             <pb n="2" xml:id="pagina2" facs="data/images/single/2.jpg"/>
             <l><lb n="1"/>sermone explicari. Ars certitudinem, imitatio aptitudinem,</l>
             <l><lb n="2"/>exercitatio promptitudinem efficit. Quinque dicuntur </l>
-            <l><lb n="3"/><choice><orig>rhetorice</orig><reg>rhetoricae</reg></choice> partes: inventio, dispositio, elocutio, memoria</l>
+            <l><lb n="3"/><choice>
+                    <orig>rhetorice</orig>
+                    <reg>rhetoricae</reg>
+                </choice> partes: inventio, dispositio, elocutio, memoria</l>
             <l><lb n="4"/>et pronunciatio. Dicunt pauci, loquimur omnes: </l>
             <l><lb n="5"/>loquimur natura, dicimus arte. Tua causa dicimus</l>
             <l><lb n="6"/>in ablativo cum aliquid facimus principaliter petenti. </l>
             <l><lb n="7"/>Suscepimus vulgariter dicitur &#34;habiamo toto sopra </l>
             <l><lb n="8"/>de nui&#34;. Copia a con et ope. In singulari copia abundantia</l>
             <l><lb n="9"/>rerum, in plurali vero gentium multitudo, maxime </l>
-            <l><lb n="10"/>armorum, dicitur. Recta sapientia id est <choice><orig>intelligentia</orig><reg>intellegentia</reg></choice>.</l>
-            <l><lb n="11"/><persName ref="Cicerone">Cicero</persName> in Veteri <quote>&#171;eloquentia sine sapientia
-                parum aut </quote></l>
-            <l><lb n="12"/><quote>nihil proficit&#187;</quote>. <persName ref="#Quintiliano">Quintilianus</persName> ait
-                imprimis pueri litteras</l>
-            <l><lb n="13"/><choice><orig>grecas</orig><reg>graecas</reg></choice> discere debent. Scriptores librorum compositores, </l>
+            <l><lb n="10"/>armorum, dicitur. Recta sapientia id est <choice>
+                    <orig>intelligentia</orig>
+                    <reg>intellegentia</reg>
+                </choice>.</l>
+            <l><lb n="11"/><persName ref="Cicerone">Cicero</persName> in Veteri
+                    <quote>&#171;eloquentia sine sapientia parum aut </quote></l>
+            <l><lb n="12"/><quote>nihil proficit&#187;</quote>. <persName ref="#Quintiliano"
+                    >Quintilianus</persName> ait imprimis pueri litteras</l>
+            <l><lb n="13"/><choice>
+                    <orig>grecas</orig>
+                    <reg>graecas</reg>
+                </choice> discere debent. Scriptores librorum compositores, </l>
             <l><lb n="14"/>transcriptores vero librarii appellantur. <choice>
                     <orig>Questus</orig>
                     <reg>Quaestus</reg>
@@ -978,7 +1207,8 @@
                     <orig>Precipio</orig>
                     <reg>Praecipio</reg>
                 </choice>est interdum doceo. Officium</l>
-            <l><lb n="17"/>interdum honestum, ut <persName ref="#Cicerone">Cicero</persName> de Officiis, <choice>
+            <l><lb n="17"/>interdum honestum, ut <persName ref="#Cicerone">Cicero</persName> de
+                Officiis, <choice>
                     <sic>interdu</sic>
                     <corr>interdum</corr>
                 </choice>
@@ -992,265 +1222,340 @@
                     <reg>definitione</reg>
                 </choice> est vir </l>
             <l><lb n="21"/>bonus et dicendi peritus. Orator non solum artem </l>
-            <l><lb n="22"/>novit, sed etiam exercet, ut <persName ref="#Cicerone">Cicero</persName> in
-                orationibus </l>
+            <l><lb n="22"/>novit, sed etiam exercet, ut <persName ref="#Cicerone">Cicero</persName>
+                in orationibus </l>
             <l><lb n="23"/>et in omnibus causis, scilicet gravibus, mediocribus et </l>
             <pb n="3" xml:id="pagina3" facs="data/images/single/3.jpg"/>
             <l><lb n="1"/>Contemptio <choice>
-                <sic>villipensio</sic>
-                <corr>vilipensio</corr>
-            </choice> alicuis propter precedentia</l>
+                    <sic>villipensio</sic>
+                    <corr>vilipensio</corr>
+                </choice> alicuis propter precedentia</l>
             <l><lb n="2"/>mala. Inertia ab in et ars et est corporis. Navus sapiens,</l>
             <l><lb n="3"/>inde ignavuus quasi igne vacuus et est animi sicut et</l>
             <l><lb n="4"/>secordia. Desidia a de et sedeo id est nihil operari ad corpus</l>
             <l><lb n="5"/>pertinet et est proprie scabiosorum. Luxuria totius</l>
-            <l><lb n="6"/><choice><orig>vite</orig><reg>vitae</reg></choice> superflua abundantia et dicitur in agris, vestibus</l>
+            <l><lb n="6"/><choice>
+                    <orig>vite</orig>
+                    <reg>vitae</reg>
+                </choice> superflua abundantia et dicitur in agris, vestibus</l>
             <l><lb n="7"/>et cibis ac etiam pro libidine ipsa sumitur. Pruden-</l>
             <l><lb n="8"/>tia multarum rerum experientia in humanis proprie,</l>
             <l><lb n="9"/>sapientia vero in divinis. Fortitudo humilium rerum</l>
             <l><lb n="10"/>contemptio et magnarum appetitio. Temperantia est</l>
             <l><lb n="11"/>animum contra voluptates refrenare, <choice>
-                <orig>iusticia</orig>
-                <reg>iustitia</reg>
-            </choice> vero</l>
+                    <orig>iusticia</orig>
+                    <reg>iustitia</reg>
+                </choice> vero</l>
             <l><lb n="12"/>bonis <choice>
-                <orig>premia</orig>
-                <reg>praemia</reg>
-            </choice> et malis supplicia conferre, que quidem</l>
+                    <orig>premia</orig>
+                    <reg>praemia</reg>
+                </choice> et malis supplicia conferre, que quidem</l>
             <l><lb n="13"/>ceteras virtutes <choice>
-                <orig>precellit</orig>
-                <reg>praecellit</reg>
-            </choice>. _______ <choice>
-                <sic>grece</sic>
-                <reg>graece</reg>
-            </choice>, contentio latine </l>
+                    <orig>precellit</orig>
+                    <reg>praecellit</reg>
+                </choice>. _______ <choice>
+                    <sic>grece</sic>
+                    <reg>graece</reg>
+                </choice>, contentio latine </l>
             <l><lb n="14"/>et est mutua comparatio alias etiam litigatio dicitur.</l>
             <l><lb n="15"/>Fides <choice>
-                <sic>comuniter</sic>
-                <corr>communiter</corr>
-            </choice> est observatio promissorum ut <del hand="#LudovicoSforza">xx</del></l>
+                    <sic>comuniter</sic>
+                    <corr>communiter</corr>
+                </choice> est observatio promissorum ut <del hand="#LudovicoSforza">xx</del></l>
             <l><lb n="16"/>ait <persName ref="#Cicerone">Cicero</persName> in Officijs, <choice>
-                <orig>rectorico</orig>
-                <reg>rhetorico</reg>
-            </choice> autem modo dicitur </l>
+                    <orig>rectorico</orig>
+                    <reg>rhetorico</reg>
+                </choice> autem modo dicitur </l>
             <l><lb n="17"/>credulitas. Depravatio vocabulorum corruptio ut</l>
             <l><lb n="18"/>non sobrie sed sorbie. Litterarum mutatio est ut non</l>
             <l><lb n="19"/>disputat sed dispotat. Irrisio verborum, <choice>
-                <orig>arrisio</orig>
-                <reg>adrisio</reg>
-            </choice></l>
+                    <orig>arrisio</orig>
+                    <reg>adrisio</reg>
+                </choice></l>
             <l><lb n="20"/>actuum et gestuum. Interpellare est aliquem <del hand="#LudovicoSforza"
-                >m</del></l>
+                    >m</del></l>
             <l><lb n="21"/>aliquid facientem aut dicentem interpedire.</l>
-            <l><lb n="22"/><persName ref="#Catone">Cato</persName> in adversarium gibbum &#171;<q>fert hiemem</q></l>
-            <l><lb n="23"/><q>nautis spumosa per equora delphin</q>&#187;. Ordo <del hand="#LudovicoSforza">m</del></l>
+            <l><lb n="22"/><persName ref="#Catone">Cato</persName> in adversarium gibbum
+                    &#171;<q>fert hiemem</q></l>
+            <l><lb n="23"/><q>nautis spumosa per equora delphin</q>&#187;. Ordo <del
+                    hand="#LudovicoSforza">m</del></l>
             <pb n="4" xml:id="pagina4" facs="data/images/single/4.jpg"/>
             <p rend="bold">CIRUS</p>
             <l><lb n="1"/>rhetoricalis narrativus est duplex: naturalis, scilicet cum </l>
             <l><lb n="2"/>primum primo secundum secondo <choice>
-                <orig>tercium tercio</orig>
-                <reg>tercium tercio</reg>
-            </choice> quartum </l>
-            <l><lb n="3"/>quarto dicimus ut si <persName ref="#Virgilio">Virgilius</persName> dicat <choice><orig>Eneas</orig><reg>Aeneas</reg></choice>, destructa</l>
-            <l><lb n="4"/><placeName ref="#Troia">Troia</placeName><pc>,</pc> funditur naves fecit, in <placeName
-                ref="#Sicilia">Siciliam</placeName> venit, deinde <del hand="#LudovicoSforza"
-                    >m</del></l>
+                    <orig>tercium tercio</orig>
+                    <reg>tercium tercio</reg>
+                </choice> quartum </l>
+            <l><lb n="3"/>quarto dicimus ut si <persName ref="#Virgilio">Virgilius</persName> dicat <choice>
+                    <orig>Eneas</orig>
+                    <reg>Aeneas</reg>
+                </choice>, destructa</l>
+            <l><lb n="4"/><placeName ref="#Troia">Troia</placeName><pc>,</pc> funditur naves fecit,
+                in <placeName ref="#Sicilia">Siciliam</placeName> venit, deinde <del
+                    hand="#LudovicoSforza">m</del></l>
             <l><lb n="5"/>tempestate impulsus in Africam applicuit, demum Italiam </l>
             <l><lb n="6"/>pervenit. Et est proprie oratoris. Artificialis vero est quando </l>
             <l><lb n="7"/>tercium vel secundum primo et primum <choice>
-                <orig>tercio</orig>
-                <reg>tertio</reg>
-            </choice> ordinem </l>
+                    <orig>tercio</orig>
+                    <reg>tertio</reg>
+                </choice> ordinem </l>
             <l><lb n="8"/>confundendo dicimus unde <persName ref="#Virgilio">Virgilius</persName>
                 <choice>
                     <orig>Eneas</orig>
                     <reg>Aeneas</reg>
                 </choice> discedens</l>
             <l><lb n="9"/>de Sicilia venit in Africam, ibi, interogatus, Didonem</l>
-            <l><lb n="10"/><choice><orig>Troie</orig><reg>Troiae</reg></choice>excidium edocet, demum in Italiam devenit. Quod </l>
+            <l><lb n="10"/><choice>
+                    <orig>Troie</orig>
+                    <reg>Troiae</reg>
+                </choice>excidium edocet, demum in Italiam devenit. Quod </l>
             <l><lb n="11"/>debuit esse narrationis principium et proprium est poetarum.</l>
             <l><lb n="12"/>Narratio in partes <choice>
-                <sic>tris</sic>
-                <corr>tres</corr>
-            </choice> dividi consuevit (<choice><orig>naracionis</orig><reg>narrationis</reg></choice></l>
-            <l><lb n="13"/><choice><orig>circunstantie</orig><reg>cirumstantiae</reg></choice>: quis, quid, ubi, quibus auxiliis, cur, quomodo,</l>
+                    <sic>tris</sic>
+                    <corr>tres</corr>
+                </choice> dividi consuevit (<choice>
+                    <orig>naracionis</orig>
+                    <reg>narrationis</reg>
+                </choice></l>
+            <l><lb n="13"/><choice>
+                    <orig>circunstantie</orig>
+                    <reg>cirumstantiae</reg>
+                </choice>: quis, quid, ubi, quibus auxiliis, cur, quomodo,</l>
             <l><lb n="14"/>quando) et habet divisio multas utilitates: confirmat </l>
             <l><lb n="15"/>animum dicentis, lenat animum audientis et rem</l>
             <l><lb n="16"/>explanat facilius. _______________ legum <del hand="#LudovicoSforza"
-                >at</del></l>
+                    >at</del></l>
             <l><lb n="17"/>contrarietas, _______ lex, ______ contra. <choice>
-                <orig>Concio</orig>
-                <reg>Contio</reg>
-            </choice></l>
+                    <orig>Concio</orig>
+                    <reg>Contio</reg>
+                </choice></l>
             <l><lb n="18"/>multitudinem ad audiendum congregatam, locum </l>
             <l><lb n="19"/>ubi congregantur ac etiam orationem ipsam quandoque </l>
-            <l><lb n="20"/>significat, a con et <choice><sic>cio, cis</sic><corr> cieo, cies</corr></choice>. <choice>
-                <orig>Mulcta</orig>
-                <reg>multa</reg>
-            </choice> est <choice>
-                <orig>pena</orig>
-                <reg>poena</reg>
-            </choice> et est <del hand="#LudovicoSforza">m</del>
+            <l><lb n="20"/>significat, a con et <choice>
+                    <sic>cio, cis</sic>
+                    <corr> cieo, cies</corr>
+                </choice>. <choice>
+                    <orig>Mulcta</orig>
+                    <reg>multa</reg>
+                </choice> est <choice>
+                    <orig>pena</orig>
+                    <reg>poena</reg>
+                </choice> et est <del hand="#LudovicoSforza">m</del>
             </l>
             <l><lb n="21"/>vocabulum oscum. Tres enim in Italia erant <choice>
-                <orig>lingue</orig>
-                <reg>linguae</reg>
-            </choice>
+                    <orig>lingue</orig>
+                    <reg>linguae</reg>
+                </choice>
             </l>
-            <l><lb n="22"/>sive <choice><orig>littere</orig><reg>litterae</reg></choice>, osca scilicet latina et <choice><orig>greca</orig><reg>graeca</reg></choice>, unde <persName ref="#Ennio">Ennius</persName>
+            <l><lb n="22"/>sive <choice>
+                    <orig>littere</orig>
+                    <reg>litterae</reg>
+                </choice>, osca scilicet latina et <choice>
+                    <orig>greca</orig>
+                    <reg>graeca</reg>
+                </choice>, unde <persName ref="#Ennio">Ennius</persName>
             </l>
             <l><lb n="23"/>dictus est homo trium cordium quod tres noscebat </l>
             <pb n="5" xml:id="pagina5" facs="data/images/single/5.jpg"/>
             <p rend="bold"><choice>
-                <sic>CERCES</sic>
-                <corr>XERSES</corr>
-            </choice></p>
+                    <sic>CERCES</sic>
+                    <corr>XERSES</corr>
+                </choice></p>
             <l><lb n="1"/>litteras. Ambiguum, ab am circum et ago, agis, quod ponitur</l>
             <l><lb n="2"/>in duas vel plures sententias trahi, quasi mentem circum-</l>
             <l><lb n="3"/>agens. Emblemata vasa sculpta et <choice>
-                <orig>preciosa</orig>
-                <reg>pretiosa</reg>
-            </choice> a greco <del hand="#LudovicoSforza">mu</del>
+                    <orig>preciosa</orig>
+                    <reg>pretiosa</reg>
+                </choice> a greco <del hand="#LudovicoSforza">mu</del>
             </l>
             <l><lb n="4"/>_______ coniecto. <choice>
-                <orig>Diffinitum</orig>
-                <reg>Definitum</reg>
-            </choice> est quod <choice>
-                <sic>precedir</sic>
-                <corr>praecedi</corr>
-            </choice></l>
+                    <orig>Diffinitum</orig>
+                    <reg>Definitum</reg>
+                </choice> est quod <choice>
+                    <sic>precedir</sic>
+                    <corr>praecedi</corr>
+                </choice></l>
             <l><lb n="5"/>istum verbum, est <choice>
-                <orig>diffinitio</orig>
-                <reg>definitio</reg>
-            </choice> vero quod sequitur, totum </l>
+                    <orig>diffinitio</orig>
+                    <reg>definitio</reg>
+                </choice> vero quod sequitur, totum </l>
             <l><lb n="6"/>tamen corpus comprehendens et est de essentia rerum ut </l>
             <l><lb n="7"/>rationale et mortale. <choice>
-                <sic>Latorer</sic>
-                <corr>Latores</corr>
-            </choice> dicuntur legum conditores. </l>
-            <l><lb n="8"/>As est quod continet duodecim <choice><orig>untias</orig><reg>untias</reg></choice>. Partes eius <choice>
-                <sic>semessis</sic><corr>semiassis</corr></choice>,</l>
-            <l><lb n="9"/>triens, <choice><sic>quadras</sic><corr>quadrans</corr></choice>. <choice><orig>Erarium</orig><reg>Aerarium</reg></choice> ab ere est locus <choice><orig>pecunie publice</orig><reg>pecuniae publicae</reg></choice>. </l>
+                    <sic>Latorer</sic>
+                    <corr>Latores</corr>
+                </choice> dicuntur legum conditores. </l>
+            <l><lb n="8"/>As est quod continet duodecim <choice>
+                    <orig>untias</orig>
+                    <reg>untias</reg>
+                </choice>. Partes eius <choice>
+                    <sic>semessis</sic>
+                    <corr>semiassis</corr>
+                </choice>,</l>
+            <l><lb n="9"/>triens, <choice>
+                    <sic>quadras</sic>
+                    <corr>quadrans</corr>
+                </choice>. <choice>
+                    <orig>Erarium</orig>
+                    <reg>Aerarium</reg>
+                </choice> ab ere est locus <choice>
+                    <orig>pecunie publice</orig>
+                    <reg>pecuniae publicae</reg>
+                </choice>. </l>
             <l><lb n="10"/>Erarii dicuntur damnati ad solvendum. <choice>
-                <orig>Secius</orig>
-                <reg>Setius</reg>
-            </choice> interdum </l>
+                    <orig>Secius</orig>
+                    <reg>Setius</reg>
+                </choice> interdum </l>
             <l><lb n="11"/>magis significat, interdum <choice>
-                <sic>comperativum</sic>
-                <corr>comparativum </corr>
-            </choice> de secus et habet </l>
+                    <sic>comperativum</sic>
+                    <corr>comparativum </corr>
+                </choice> de secus et habet </l>
             <l><lb n="12"/>primam longam, secus vero brevem. Translatio est non </l>
-            <l><lb n="13"/>vitare rationem sed tempori, loci, <choice><orig>cause</orig><reg>causae</reg></choice>, accusatoris vel </l>
+            <l><lb n="13"/>vitare rationem sed tempori, loci, <choice>
+                    <orig>cause</orig>
+                    <reg>causae</reg>
+                </choice>, accusatoris vel </l>
             <l><lb n="14"/>iudicis <choice>
-                <orig>mutacionem</orig>
-                <reg>mutationem</reg>
-            </choice>
-                <choice><orig>querere</orig><reg>quaerere</reg></choice>. Reus interdum qui supplicium </l>
+                    <orig>mutacionem</orig>
+                    <reg>mutationem</reg>
+                </choice>
+                <choice>
+                    <orig>querere</orig>
+                    <reg>quaerere</reg>
+                </choice>. Reus interdum qui supplicium </l>
             <l><lb n="15"/>meruit, interdum pro accusato id est de cuius re agitur. <del
-                hand="#LudovicoSforza">m</del></l>
+                    hand="#LudovicoSforza">m</del></l>
             <l><lb n="16"/>Furtum interceptio privatorum, peculatus vero sacrorum et </l>
             <l><lb n="17"/>publicorum de loco sacro et publico. Fumosus a natura </l>
             <l><lb n="18"/>et continue furens, furiatus autem ex <choice>
-                <sic>incidenti</sic>
-                <corr>incidente</corr>
-            </choice>. Actio </l>
+                    <sic>incidenti</sic>
+                    <corr>incidente</corr>
+                </choice>. Actio </l>
             <l><lb n="19"/>est actionis exclusio et accusandi facultas. Exceptio acti- </l>
             <l><lb n="20"/>onis exclusio. Pecunia dicitur omne quod numerari </l>
-            <l><lb n="21"/><choice><sic>ponderavi </sic><corr>ponderari</corr></choice> vel mensurari potest et maxime de dome- </l>
+            <l><lb n="21"/><choice>
+                    <sic>ponderavi </sic>
+                    <corr>ponderari</corr>
+                </choice> vel mensurari potest et maxime de dome- </l>
             <l><lb n="22"/>sticis. Unde <choice>
-                <sic>numi </sic>
-                <corr>nummi</corr>
-            </choice>
+                    <sic>numi </sic>
+                    <corr>nummi</corr>
+                </choice>
                 <choice>
                     <sic> maior </sic>
                     <corr> maius </corr>
                 </choice> in altera parte pecus scul- </l>
             <l><lb n="23"/>ptum habebant quod eorum <choice>
-                <orig>divicie</orig>
-                <reg>divitiae</reg>
-            </choice> ex agricultura et </l>
+                    <orig>divicie</orig>
+                    <reg>divitiae</reg>
+                </choice> ex agricultura et </l>
             <pb n="6" xml:id="pagina6" facs="data/images/single/6.jpg"/>
             <p rend="bold"><choice>
-                <sic>TEMISTOCLE</sic>
-                <corr>THEMISTOCLES</corr>
-            </choice></p>
+                    <sic>TEMISTOCLE</sic>
+                    <corr>THEMISTOCLES</corr>
+                </choice></p>
             <l><lb n="1"/>pecoribus essent, in altera vero navem pro <persName ref="#Saturno"
-                >Saturni</persName> in </l>
+                    >Saturni</persName> in </l>
             <l><lb n="2"/>Italia adventu. Peculium <choice>
-                <orig>divitie private</orig>
-                <reg>divitiae privatae</reg>
-            </choice> vel filii </l>
+                    <orig>divitie private</orig>
+                    <reg>divitiae privatae</reg>
+                </choice> vel filii </l>
             <l><lb n="3"/>emancipati vel servi et dicebatur pecunia castrensis.</l>
-            <l><lb n="4"/>Familia interdum pro personis interdum pro divitiis. <persName ref="#Terenzio">Ter</persName>,</l>
+            <l><lb n="4"/>Familia interdum pro personis interdum pro divitiis. <persName
+                    ref="#Terenzio">Ter</persName>,</l>
             <l><lb n="5"/>&#171;<quote>Non est mihi familia decem dierum</quote>&#187;. <choice>
-                <sic>Maleolus</sic>
-                <corr>Malleolus</corr>
-            </choice> quidam </l>
+                    <sic>Maleolus</sic>
+                    <corr>Malleolus</corr>
+                </choice> quidam </l>
             <l><lb n="6"/>tempore Marcii matre interfecta carceratus testamentum. </l>
             <l><lb n="7"/>Solea lignea id est cippus. <choice>
-                <sic>Foliculus</sic>
-                <corr>Folliculus</corr>
-            </choice> interdum pellis in modum </l>
+                    <sic>Foliculus</sic>
+                    <corr>Folliculus</corr>
+                </choice> interdum pellis in modum </l>
             <l><lb n="8"/>sacci vel follis. Mimi _______ , a greco qui </l>
             <l><lb n="9"/>gestus in scena representat. Histrio ab histro, tuscano </l>
             <l><lb n="10"/>primo inventore. Lingua romana ludio dicebatur, <del
-                hand="#LudovicoSforza">n</del></l>
+                    hand="#LudovicoSforza">n</del></l>
             <l><lb n="11"/>creator latine. Inde poeta a __________ , </l>
             <l><lb n="12"/>creo vel facio. Fortuna est vis inopinata voluntatem </l>
             <l><lb n="13"/>impediens. Necessitas autem urgens dicitur, tamen </l>
-            <l><lb n="14"/>idem esse possunt ut <persName ref="#Cicerone">Cicero</persName> in arte veteri
-                testatur. </l>
+            <l><lb n="14"/>idem esse possunt ut <persName ref="#Cicerone">Cicero</persName> in arte
+                veteri testatur. </l>
             <l><lb n="15"/>Apud Lacedemonios sacrificium quotannis fiebat </l>
-            <l><lb n="16"/>ex centum bobus quod <choice><orig>eccatomba</orig><reg>hecatombe</reg></choice> dicitur. _______</l>
+            <l><lb n="16"/>ex centum bobus quod <choice>
+                    <orig>eccatomba</orig>
+                    <reg>hecatombe</reg>
+                </choice> dicitur. _______</l>
             <l><lb n="17"/>commeatus in historiis multitudo necessariorum in </l>
             <l><lb n="18"/>exercitu, interdum tempus eundi dicitur. Deprecatio </l>
-            <l><lb n="19"/>vehemens <choice><orig>precacio</orig><reg>precatio</reg></choice>. <persName ref="#Quintiliano"><choice><sic>Quitiliaus</sic><corr>Quintilianus</corr></choice></persName>, &#171;<quote>Ubi iuris clementia</quote> </l>
+            <l><lb n="19"/>vehemens <choice>
+                    <orig>precacio</orig>
+                    <reg>precatio</reg>
+                </choice>. <persName ref="#Quintiliano"><choice>
+                        <sic>Quitiliaus</sic>
+                        <corr>Quintilianus</corr>
+                    </choice></persName>, &#171;<quote>Ubi iuris clementia</quote>
+            </l>
             <l><lb n="20"/><quote>est deprecatio locum habet</quote>&#187;. Interdum deprecatio </l>
             <l><lb n="21"/>depulsio dicitur. <choice>
-                <sic>Plebesitum</sic>
-                <corr>plebis scitum</corr>
-            </choice> plebis institutum a </l>
+                    <sic>Plebesitum</sic>
+                    <corr>plebis scitum</corr>
+                </choice> plebis institutum a </l>
             <l><lb n="22"/>____ , id est instituo. Maiestas est amplitudo </l>
             <l><lb n="23"/>imperii et status civitatis a maioribus dicta. Consistebat </l>
             <pb n="7" xml:id="pagina7" facs="data/images/single/7.jpg"/>
             <p rend="bold">LEONIDAS</p>
-            <l><lb n="1"/><choice><sic>aut</sic><corr>aut<del hand="#LudovicoSforza">em</del></corr></choice> in populi suffragiis et magistratus consilio. <del hand="#LudovicoSforza"
-                >mi</del></l>
+            <l><lb n="1"/><choice>
+                    <sic>aut</sic>
+                    <corr>aut<del hand="#LudovicoSforza">em</del></corr>
+                </choice> in populi suffragiis et magistratus consilio. <del hand="#LudovicoSforza"
+                    >mi</del></l>
             <l><lb n="2"/>Destinari est animo proponi et ordinari, _____ iudico, </l>
             <l><lb n="3"/>passivum, ___________ iudicans. Ma- </l>
             <l><lb n="4"/>turare est cum quadam tarditate diligenter accelerare, </l>
-            <l><lb n="5"/>_______ id est <choice><sic>accelera</sic><corr>accelerare</corr></choice> tarde. Officia in <del hand="#LudovicoSforza">m</del></l>
+            <l><lb n="5"/>_______ id est <choice>
+                    <sic>accelera</sic>
+                    <corr>accelerare</corr>
+                </choice> tarde. Officia in <del hand="#LudovicoSforza">m</del></l>
             <l><lb n="6"/>rhetorica sunt sine quibus ars ipsa esse non potest: </l>
             <l><lb n="7"/>inventio, dispositio, elocutio, memoria, <choice>
-                <orig>pronunctatio</orig>
-                <reg>pronuntiatio</reg>
-            </choice>.</l>
+                    <orig>pronunctatio</orig>
+                    <reg>pronuntiatio</reg>
+                </choice>.</l>
             <l><lb n="8"/>Potius de duobus, potissimum de pluribus dicitur.</l>
             <l><lb n="9"/>Propemodum id est ferme. Argumentum interdum <del hand="#LudovicoSforza"
-                >in</del></l>
+                    >in</del></l>
             <l><lb n="10"/>argumentorum collectio, <choice>
-                <orig>grece</orig>
-                <reg>graece</reg>
-            </choice> dicitur _________ </l>
+                    <orig>grece</orig>
+                    <reg>graece</reg>
+                </choice> dicitur _________ </l>
             <l><lb n="11"/>Actum de speciali, factum de generali ad cogitandum </l>
             <l><lb n="12"/>ad dicendum et ad omnia peragendum. Vita qua </l>
             <l><lb n="13"/>vivimus, vita mores ipsi dicuntur. Conglutinare coniungere, </l>
             <l><lb n="14"/>inde glutinum &#34;la colla&#34;. Virginum corruptor dicitur </l>
             <l><lb n="15"/>et qui iudicia corrumpit. Nequiter libidinose et <del
-                hand="#LudovicoSforza">m</del>
+                    hand="#LudovicoSforza">m</del>
             </l>
             <l><lb n="16"/>crudeliter, inde nequam per sincopam de nequicquam. </l>
-            <l><lb n="17"/><choice><orig>Grece</orig><reg>Graece</reg></choice> ______ , id est simulo inde <choice><orig>hipocrita</orig><reg>hypocrita</reg></choice>. Castus </l>
+            <l><lb n="17"/><choice>
+                    <orig>Grece</orig>
+                    <reg>Graece</reg>
+                </choice> ______ , id est simulo inde <choice>
+                    <orig>hipocrita</orig>
+                    <reg>hypocrita</reg>
+                </choice>. Castus </l>
             <l><lb n="18"/>et corpore et aliarum rerum. Censores duo erant <choice>
-                <orig>vite</orig>
-                <reg>vitae</reg>
-            </choice></l>
+                    <orig>vite</orig>
+                    <reg>vitae</reg>
+                </choice></l>
             <l><lb n="19"/>magistri de moribus hominum tractantes, unus <del hand="#LudovicoSforza"
-                >mu</del></l>
+                    >mu</del></l>
             <l><lb n="20"/>plebeius, alter nobilis, qui durantes per quinquennium </l>
             <l><lb n="21"/>etiam non accusatos interdum damnare poterant. </l>
             <l><lb n="22"/>Inde censoria nota. Profanus procul a fano. Interdiu </l>
-            <l><lb n="23"/><choice><sic>interdiem</sic><corr>inter diem </corr></choice>. Occasio est commoditas ex tempore nascens </l>
+            <l><lb n="23"/><choice>
+                    <sic>interdiem</sic>
+                    <corr>inter diem </corr>
+                </choice>. Occasio est commoditas ex tempore nascens </l>
             <pb n="8" xml:id="pagina8" facs="data/images/single/8.jpg"/>
             <p rend="bold">ROMULUS</p>
             <l><lb n="1"/>et habilitas ad rem faciendam. _______ bona commo-</l>
@@ -1258,375 +1563,474 @@
             <l><lb n="3"/>Arbiter iudex electus inter litigantes, interdum auditor</l>
             <l><lb n="4"/>sive auscultator. Strepitus pedum, crepitus inanimatorum </l>
             <l><lb n="5"/>ut <choice>
-                <sic>hostiis</sic>
-                <corr>hostium</corr>
-            </choice>vel armorum collisio dicitur. Clamor est huma-</l>
+                    <sic>hostiis</sic>
+                    <corr>hostium</corr>
+                </choice>vel armorum collisio dicitur. Clamor est huma-</l>
             <l><lb n="6"/>norum. <choice>
-                <orig>Conseqens</orig>
-                <reg>consequens</reg>
-            </choice> immediate vinctum, consecutio diu</l>
+                    <orig>Conseqens</orig>
+                    <reg>consequens</reg>
+                </choice> immediate vinctum, consecutio diu</l>
             <l><lb n="7"/>post negotium. Conscientia de per se de malo dicitur. </l>
             <l><lb n="8"/>Locus communis est qui pro et contra dici potest, proprius </l>
-            <l><lb n="9"/><choice><sic>pui</sic><corr>qui</corr></choice> in contrarium adduci non potest. Calumnia est </l>
+            <l><lb n="9"/><choice>
+                    <sic>pui</sic>
+                    <corr>qui</corr>
+                </choice> in contrarium adduci non potest. Calumnia est </l>
             <l><lb n="10"/>falsa accusatio. <choice>
-                <orig>Questio</orig>
-                <reg>Quaestio</reg>
-            </choice> est propositio dubitabilis secundum </l>
-            <l><lb n="11"/><choice><orig>dialeticos</orig><reg>dialecticos</reg></choice>. Interdum tamen lis, interdum quod confitetur</l>
+                    <orig>Questio</orig>
+                    <reg>Quaestio</reg>
+                </choice> est propositio dubitabilis secundum </l>
+            <l><lb n="11"/><choice>
+                    <orig>dialeticos</orig>
+                    <reg>dialecticos</reg>
+                </choice>. Interdum tamen lis, interdum quod confitetur</l>
             <l><lb n="12"/>aliquis in tortura. <choice>
-                <orig>Questor</orig>
-                <reg>Quaestor</reg>
-            </choice> interdum ut iudex <del hand="#LudovicoSforza">m</del></l>
-            <l><lb n="13"/><choice><sic>malefficiorum</sic><corr>malefficiorum</corr></choice>. Auctoritas est sententia <choice>
-                <orig>imitacione</orig>
-                <reg>imitatione</reg>
-            </choice> di-</l>
+                    <orig>Questor</orig>
+                    <reg>Quaestor</reg>
+                </choice> interdum ut iudex <del hand="#LudovicoSforza">m</del></l>
+            <l><lb n="13"/><choice>
+                    <sic>malefficiorum</sic>
+                    <corr>malefficiorum</corr>
+                </choice>. Auctoritas est sententia <choice>
+                    <orig>imitacione</orig>
+                    <reg>imitatione</reg>
+                </choice> di-</l>
             <l><lb n="14"/>gna. Comminisci fingere inde commentum. Tortor</l>
             <l><lb n="15"/>qui exercet et torquet. <choice>
-                <sic>Probabibe</sic>
-                <corr>Probabile</corr>
-            </choice> apud rhetoricos </l>
+                    <sic>Probabibe</sic>
+                    <corr>Probabile</corr>
+                </choice> apud rhetoricos </l>
             <l><lb n="16"/>verisimile et credibile. Offendo noceo. Invenio et in-</l>
             <l><lb n="17"/>terdum cespito significat. Stipulatio est solennis cum</l>
-            <l><lb n="18"/>ordine <choice><sic>promisio</sic><corr>promissio</corr></choice>, interdum interrogatio subsequente</l>
-            <l><lb n="19"/>responsione ut &#171;<q>scribes mihi hunc librum</q>&#187; et &#171;<q>pulchrum</q></l>
+            <l><lb n="18"/>ordine <choice>
+                    <sic>promisio</sic>
+                    <corr>promissio</corr>
+                </choice>, interdum interrogatio subsequente</l>
+            <l><lb n="19"/>responsione ut &#171;<q>scribes mihi hunc librum</q>&#187; et
+                    &#171;<q>pulchrum</q></l>
             <l><lb n="20"/><q>scribam quod fit in instrumentis</q>&#187;. Abrogo totum.</l>
             <l><lb n="21"/>Derogo partem. Ante vigesimusquintum annum non</l>
             <l><lb n="22"/>fiebat consul. <choice>
-                <sic>Sactio</sic>
-                <corr>sanctio</corr>
-            </choice> lex firmans <choice>
-                <orig>que</orig>
-                <reg>quae</reg>
-            </choice> cum pena iubebat</l>
+                    <sic>Sactio</sic>
+                    <corr>sanctio</corr>
+                </choice> lex firmans <choice>
+                    <orig>que</orig>
+                    <reg>quae</reg>
+                </choice> cum pena iubebat</l>
             <l><lb n="23"/>a sanguine dicta. Inde <choice>
-                <sic>tribunnia</sic>
-                <corr>tribunicia</corr>
-            </choice> potestas <del hand="#LudovicoSforza">mini</del></l>
+                    <sic>tribunnia</sic>
+                    <corr>tribunicia</corr>
+                </choice> potestas <del hand="#LudovicoSforza">mini</del></l>
             <pb n="9" xml:id="pagina9" facs="data/images/single/9.jpg"/>
             <p rend="bold">BRUTUS</p>
             <l><lb n="1"/>sacrosanta appellabatur. Am circum, ______ pono, _________ </l>
             <l><lb n="2"/>sermo. Amphibologia multiplex in oratione sensus quod </l>
             <l><lb n="3"/>fit a dialeticis. <choice>
-                <orig>Equivocatio</orig>
-                <reg>Aequivocatio</reg>
-            </choice> est multiplicitas et significationis </l>
+                    <orig>Equivocatio</orig>
+                    <reg>Aequivocatio</reg>
+                </choice> est multiplicitas et significationis </l>
             <l><lb n="4"/>et sensus in uno vocabulo ut canis. <choice>
-                <orig>Diffinicio</orig>
-                <reg>Definitio</reg>
-            </choice>
+                    <orig>Diffinicio</orig>
+                    <reg>Definitio</reg>
+                </choice>
                 <choice>
                     <sic>secundu</sic>
                     <corr>secundum</corr>
                 </choice></l>
             <l><lb n="5"/>dialeticos a <choice>
-                <orig>descreptione</orig>
-                <corr>descriptione</corr>
-            </choice> differt, est et enim oratio declarans </l>
+                    <orig>descreptione</orig>
+                    <corr>descriptione</corr>
+                </choice> differt, est et enim oratio declarans </l>
             <l><lb n="6"/>quid sit esse rei per essentiam et substantialia <choice>
-                <orig>quedam</orig>
-                <reg>quaedam</reg>
-            </choice></l>
+                    <orig>quedam</orig>
+                    <reg>quaedam</reg>
+                </choice></l>
             <l><lb n="7"/>sine quibus <choice>
-                <orig>diffinitio</orig>
-                <reg>definitio</reg>
-            </choice> haberi non potest ut &#171;<quote>homo est animal</quote></l>
-            <l><lb n="8"/><quote>rationale et mortale</quote>&#187;. Descriptio autem est declarans essentiam </l>
-            <l><lb n="9"/>rei per <choice><sic>accidentalia</sic><corr>accidentia</corr></choice>, id est per ea <choice>
-                <orig>que</orig>
-                <reg>quae</reg>
-            </choice> possunt et non possunt </l>
-            <l><lb n="10"/>inesse rei ut &#171;<quote>homo est<choice><sic> bibes</sic><corr>bipes</corr></choice></quote>&#187; quippe, et si pedibus careret, </l>
-            <l><lb n="11"/>nec ob id tamen homo esse desineret. Suffragia voces <del hand="#LudovicoSforza"
-                >vi</del></l>
-            <l><lb n="12"/><choice><orig>quedam</orig><reg>quaedam</reg></choice> populi sedentis, id est <choice>
-                <sic>expresiones</sic>
-                <corr>expressiones</corr>
-            </choice>sententiarum, vulgari- </l>
+                    <orig>diffinitio</orig>
+                    <reg>definitio</reg>
+                </choice> haberi non potest ut &#171;<quote>homo est animal</quote></l>
+            <l><lb n="8"/><quote>rationale et mortale</quote>&#187;. Descriptio autem est declarans
+                essentiam </l>
+            <l><lb n="9"/>rei per <choice>
+                    <sic>accidentalia</sic>
+                    <corr>accidentia</corr>
+                </choice>, id est per ea <choice>
+                    <orig>que</orig>
+                    <reg>quae</reg>
+                </choice> possunt et non possunt </l>
+            <l><lb n="10"/>inesse rei ut &#171;<quote>homo est<choice>
+                        <sic> bibes</sic>
+                        <corr>bipes</corr>
+                    </choice></quote>&#187; quippe, et si pedibus careret, </l>
+            <l><lb n="11"/>nec ob id tamen homo esse desineret. Suffragia voces <del
+                    hand="#LudovicoSforza">vi</del></l>
+            <l><lb n="12"/><choice>
+                    <orig>quedam</orig>
+                    <reg>quaedam</reg>
+                </choice> populi sedentis, id est <choice>
+                    <sic>expresiones</sic>
+                    <corr>expressiones</corr>
+                </choice>sententiarum, vulgari- </l>
             <l><lb n="13"/>ter &#34;la ballota&#34;. <choice>
-                <sic>Paralogissimus</sic>
-                <corr>Paralogismus</corr>
-            </choice> a _______ , id est decipio in </l>
+                    <sic>Paralogissimus</sic>
+                    <corr>Paralogismus</corr>
+                </choice> a _______ , id est decipio in </l>
             <l><lb n="14"/>sermone et est in malo, syllogismus autem a ________ </l>
             <l><lb n="15"/>____ probatio in bono. Afficere attribuere bonum </l>
             <l><lb n="16"/>vel malum nec vulgare recte potest exprimi. Libido </l>
-            <l><lb n="17"/>interdum voluntas temeraria dicitur. Constitutio <del hand="#LudovicoSforza"
-                >vi</del></l>
+            <l><lb n="17"/>interdum voluntas temeraria dicitur. Constitutio <del
+                    hand="#LudovicoSforza">vi</del></l>
             <l><lb n="18"/>iuridicialis generatur his verbis utrum &#171;<q>oportuit non</q></l>
             <l><lb n="19"/><q>oportuit. Debuit non debuit facere</q>&#187; et caetera. Natura est </l>
-            <l><lb n="20"/><choice><orig>quedam</orig><reg>quaedam</reg></choice> vis nobis ingenita. Ius est duplex scriptum scilicet </l>
+            <l><lb n="20"/><choice>
+                    <orig>quedam</orig>
+                    <reg>quaedam</reg>
+                </choice> vis nobis ingenita. Ius est duplex scriptum scilicet </l>
             <l><lb n="21"/>et non scriptum, scriptum habet leges <choice>
-                <sic>plebesitum</sic>
-                <corr>plebis scitum</corr>
-            </choice> et similia. </l>
+                    <sic>plebesitum</sic>
+                    <corr>plebis scitum</corr>
+                </choice> et similia. </l>
             <l><lb n="22"/>Ius naturale est quod natura omnia docuit animalia, tam </l>
             <l><lb n="23"/>in brutis quam in hominibus ut avicula in filios. Ius <choice>
-                <sic>genitum</sic>
-                <corr>gentium</corr>
-            </choice></l>
+                    <sic>genitum</sic>
+                    <corr>gentium</corr>
+                </choice></l>
             <pb n="10" xml:id="pagina10" facs="data/images/single/10.jpg"/>
             <p rend="bold">CAMILES</p>
             <l><lb n="1"/>quod factum est <choice>
-                <sic>iner</sic>
-                <corr>inter</corr>
-            </choice> homines, ut qui duxit uxorem <del hand="#LudovicoSforza">m</del></l>
+                    <sic>iner</sic>
+                    <corr>inter</corr>
+                </choice> homines, ut qui duxit uxorem <del hand="#LudovicoSforza">m</del></l>
             <l><lb n="2"/>retineat. Ius cognationis per quod filius patrem et pater</l>
-            <l><lb n="3"/>filium observat et amat. _______ Religio in deum <del hand="#LudovicoSforza"
-                >vi</del></l>
+            <l><lb n="3"/>filium observat et amat. _______ Religio in deum <del
+                    hand="#LudovicoSforza">vi</del></l>
             <l><lb n="4"/>interposita sententia senatus quando senatus ad consules</l>
             <l><lb n="5"/>et <choice>
-                <orig>presides</orig>
-                <reg>praesides</reg>
-            </choice> provinciarum scribebat quid facerent. <choice>
-                <orig>Pretor</orig>
-                <reg>Praetor</reg>
-            </choice></l>
+                    <orig>presides</orig>
+                    <reg>praesides</reg>
+                </choice> provinciarum scribebat quid facerent. <choice>
+                    <orig>Pretor</orig>
+                    <reg>Praetor</reg>
+                </choice></l>
             <l><lb n="6"/>quasi preitor habens potestatem interpretandi leges, ad-</l>
             <l><lb n="7"/>dendi et minuendi et erat urbanus et iisdem auspiciis</l>
             <l><lb n="8"/>creatus quibus et consul. Mandatum est officium pro</l>
             <l><lb n="9"/>alio susceptum gratuito, inde <choice>
-                <orig>mandatarij</orig>
-                <reg>mandatari</reg>
-            </choice> qui mandatum </l>
+                    <orig>mandatarij</orig>
+                    <reg>mandatari</reg>
+                </choice> qui mandatum </l>
             <l><lb n="10"/>accipiunt. Iudicium reddere dicitur sententia proferre</l>
             <l><lb n="11"/>pro voluntate petentis. Ex <choice>
-                <orig>equo</orig>
-                <reg>aequo</reg>
-            </choice> et bono dicitur illo</l>
-            <l><lb n="12"/>omisso rigore viris de quo <persName ref="#Terenzio">Terentius</persName> &#171;<quote>ius
-                summum</quote></l>
-            <l><lb n="13"/><quote><choice><orig>sepe</orig><reg>saepe</reg></choice> summa <choice><orig>malicia</orig><reg>malitia</reg></choice> est</quote>&#187;. Patronus qui orat in causa ut</l>
+                    <orig>equo</orig>
+                    <reg>aequo</reg>
+                </choice> et bono dicitur illo</l>
+            <l><lb n="12"/>omisso rigore viris de quo <persName ref="#Terenzio">Terentius</persName>
+                    &#171;<quote>ius summum</quote></l>
+            <l><lb n="13"/><quote><choice>
+                        <orig>sepe</orig>
+                        <reg>saepe</reg>
+                    </choice> summa <choice>
+                        <orig>malicia</orig>
+                        <reg>malitia</reg>
+                    </choice> est</quote>&#187;. Patronus qui orat in causa ut</l>
             <l><lb n="14"/>orator. Advocatus qui habet administrare leges ad quem </l>
-            <l><lb n="15"/><choice><orig>sepe</orig><reg>saepe</reg></choice> recurrunt patroni. Procurator qui suscipit causam </l>
-            <l><lb n="16"/>presentis ut <choice><orig>egroto</orig><reg>aegroto</reg></choice> vel cui etas iam est <choice><sic>ingravesentis</sic><corr>ingravescentis</corr></choice>.</l>
+            <l><lb n="15"/><choice>
+                    <orig>sepe</orig>
+                    <reg>saepe</reg>
+                </choice> recurrunt patroni. Procurator qui suscipit causam </l>
+            <l><lb n="16"/>presentis ut <choice>
+                    <orig>egroto</orig>
+                    <reg>aegroto</reg>
+                </choice> vel cui etas iam est <choice>
+                    <sic>ingravesentis</sic>
+                    <corr>ingravescentis</corr>
+                </choice>.</l>
             <l><lb n="17"/>Pactum <choice>
-                <orig>secondum</orig>
-                <reg>secundum</reg>
-            </choice> iurisconsultos est duorum pluriumve</l>
+                    <orig>secondum</orig>
+                    <reg>secundum</reg>
+                </choice> iurisconsultos est duorum pluriumve</l>
             <l><lb n="18"/>in idem placitum. Id est duplex scilicet sine legibus ut: </l>
-            <l><lb n="19"/>&#171;<q>volo ex hoc equo octo aureos</q>&#187;. Alter respondet: &#171;<q>dabo tibi</q></l>
+            <l><lb n="19"/>&#171;<q>volo ex hoc equo octo aureos</q>&#187;. Alter respondet:
+                    &#171;<q>dabo tibi</q></l>
             <l><lb n="20"/><q>sex</q>&#187;. Et sic conveniunt ulla sine obligatione cum</l>
             <l><lb n="21"/>legibus autem prout venditor emptori possessionem</l>
-            <l><lb n="22"/>defendere tenetur. Pago, pagis verbum antiquum, <del hand="#LudovicoSforza"
-                >m</del></l>
+            <l><lb n="22"/>defendere tenetur. Pago, pagis verbum antiquum, <del
+                    hand="#LudovicoSforza">m</del></l>
             <l><lb n="23"/>pactum facio pro quo nunc pango dicimus. </l>
             <pb n="11" xml:id="pagina11" facs="data/images/single/11.jpg"/>
             <p rend="bold">FABIUS</p>
             <l><lb n="1"/>Comitium locus in quem <persName ref="#Romolo">Romulus</persName>
-                et<persName ref="#TitoTazio"><choice>
-                    <orig>Tacius</orig>
-                    <reg>Tatius</reg>
-                </choice></persName>, Sabinorum rex,</l>
-            <l><lb n="2"/><placeName ref="#Roma">Rome </placeName>simul imperantes conveniebant et ab
-                iisdem constitutus.</l>
+                    et<persName ref="#TitoTazio"><choice>
+                        <orig>Tacius</orig>
+                        <reg>Tatius</reg>
+                    </choice></persName>, Sabinorum rex,</l>
+            <l><lb n="2"/><placeName ref="#Roma">Rome </placeName>simul imperantes conveniebant et
+                ab iisdem constitutus.</l>
             <l><lb n="3"/>Interdum comitia dicuntur electiones consulum, interdum</l>
             <l><lb n="4"/>tempora eligendi consules a con et eo is quasi conicium.</l>
-            <l><lb n="5"/><choice><sic>Contondere</sic><corr>Contendere</corr></choice> interdum comparare, <choice>
-                <orig>detraere</orig>
-                <reg>detrahere</reg>
-            </choice> vel vehementer</l>
+            <l><lb n="5"/><choice>
+                    <sic>Contondere</sic>
+                    <corr>Contendere</corr>
+                </choice> interdum comparare, <choice>
+                    <orig>detraere</orig>
+                    <reg>detrahere</reg>
+                </choice> vel vehementer</l>
             <l><lb n="6"/>petere. Deterius cum comparatur malum cum bono. </l>
             <l><lb n="7"/>Potius autem econtra dicitur. Dolus et bonus et malus</l>
             <l><lb n="8"/>dicitur. Pernicies a perneco id est destruo. <choice>
-                <sic>Civita</sic>
-                <corr>Civitas</corr>
-            </choice> multitudo</l>
+                    <sic>Civita</sic>
+                    <corr>Civitas</corr>
+                </choice> multitudo</l>
             <l><lb n="9"/>civium iure viventium. Concessio cum postulamus ut </l>
             <l><lb n="10"/>nobis ignoscatur. <placeName ref="#Eurota">Eurotas</placeName> fluvius
                 spartanus. Casus qui</l>
             <l><lb n="11"/>venit de repente nobis ignorantibus causam et potest </l>
             <l><lb n="12"/>esse de omnibus rebus generaliter, fortuna vero solum</l>
             <l><lb n="13"/>de hominibus quandoque <choice>
-                <sic>tamem</sic>
-                <corr resp="#LudovicoSforza">tamen</corr>
-            </choice> de rebus raro evenin-</l>
-            <l><lb n="14"/>tibus ut de cresente <choice><sic>fluio</sic><corr>fluvio</corr></choice>. <choice><sic>Mal</sic><corr><del hand="#Chiara">Mal</del></corr></choice> ____ malum facere secundum</l>
+                    <sic>tamem</sic>
+                    <corr resp="#LudovicoSforza">tamen</corr>
+                </choice> de rebus raro evenin-</l>
+            <l><lb n="14"/>tibus ut de cresente <choice>
+                    <sic>fluio</sic>
+                    <corr>fluvio</corr>
+                </choice>. <choice>
+                    <sic>Mal</sic>
+                    <corr><del hand="#Chiara">Mal</del></corr>
+                </choice> ____ malum facere secundum</l>
             <l><lb n="15"/>philosophos morales est cum <choice>
-                <orig>preter</orig>
-                <reg>praeter</reg>
-            </choice> voluntatem bonam </l>
+                    <orig>preter</orig>
+                    <reg>praeter</reg>
+                </choice> voluntatem bonam </l>
             <l><lb n="16"/>fit malus effectus ut si medicus velit <choice>
-                <orig>egrotum</orig>
-                <reg>aegrotum</reg>
-            </choice> medela</l>
+                    <orig>egrotum</orig>
+                    <reg>aegrotum</reg>
+                </choice> medela</l>
             <l><lb n="17"/>&#8224;aliba&#8224; liberare et eum interficiat, male facere autem</l>
             <l><lb n="18"/>econtra dicitur. Sic bonum facere ut si quis quempiam </l>
             <l><lb n="19"/>ab insanabili <choice>
-                <orig>egritudine</orig>
-                <reg>aegritudine</reg>
-            </choice><choice>
-                <sic>liberer</sic>
-                <corr>liberet</corr>
-            </choice> cum intendat eum <del hand="#LudovicoSforza">m</del></l>
+                    <orig>egritudine</orig>
+                    <reg>aegritudine</reg>
+                </choice><choice>
+                    <sic>liberer</sic>
+                    <corr>liberet</corr>
+                </choice> cum intendat eum <del hand="#LudovicoSforza">m</del></l>
             <l><lb n="20"/>interficere, bene facere autem econtra: semper enim est </l>
             <l><lb n="21"/>consideranda voluntas. Nobilis et ad stirpem et ad</l>
-            <l><lb n="22"/>facinora pertinet. Supersedere omittere dicitur. <del hand="#LudovicoSforza"
-                >m</del></l>
-            <l><lb n="23"/>Propositio est <choice><orig>que</orig><reg>quae</reg></choice> summatim <choice>
-                <orig>prebet</orig>
-                <reg>praebet</reg>
-            </choice> gustum auditori</l>
+            <l><lb n="22"/>facinora pertinet. Supersedere omittere dicitur. <del
+                    hand="#LudovicoSforza">m</del></l>
+            <l><lb n="23"/>Propositio est <choice>
+                    <orig>que</orig>
+                    <reg>quae</reg>
+                </choice> summatim <choice>
+                    <orig>prebet</orig>
+                    <reg>praebet</reg>
+                </choice> gustum auditori</l>
             <pb n="12" xml:id="pagina12" facs="data/images/single/12.jpg"/>
             <p rend="bold"><choice>
-                <sic>SIPIO</sic>
-                <corr>SCIPIO</corr>
-            </choice> MAIOR </p>
+                    <sic>SIPIO</sic>
+                    <corr>SCIPIO</corr>
+                </choice> MAIOR </p>
             <l><lb n="1"/>super dicendis. Ratio quadam subiectione rem brevem </l>
-            <l><lb n="2"/><choice><orig>demostrat</orig><reg>demonstrat</reg></choice> sine his particulis etsi, quamquam, quamvis et caetera, quibus ius </l>
-            <l><lb n="3"/>rhetorice <choice><sic>ocultatur</sic><corr>occultatur</corr></choice>. Honestas <choice>
-                <sic>honorificanentia</sic>
-                <corr resp="#LudovicoSforza">honorificentia</corr>
-            </choice> dicitur.</l>
+            <l><lb n="2"/><choice>
+                    <orig>demostrat</orig>
+                    <reg>demonstrat</reg>
+                </choice> sine his particulis etsi, quamquam, quamvis et caetera, quibus ius </l>
+            <l><lb n="3"/>rhetorice <choice>
+                    <sic>ocultatur</sic>
+                    <corr>occultatur</corr>
+                </choice>. Honestas <choice>
+                    <sic>honorificanentia</sic>
+                    <corr resp="#LudovicoSforza">honorificentia</corr>
+                </choice> dicitur.</l>
             <l><lb n="4"/>Emolumentum lucrum dicitur et est a molentibus granum</l>
             <l><lb n="5"/>tractum. Compendium leve minimum lucrum. Commutare</l>
             <l><lb n="6"/>vulgariter &#34;barrare&#34;. Integer cui nulla inest corruptio.</l>
-            <l><lb n="7"/><choice><orig>Fere</orig><reg>Ferae</reg></choice> dicuntur penitus <choice><orig>indomite</orig><reg>indomitae</reg></choice>. <choice>
-                <orig>Racio</orig>
-                <reg>Ratio</reg>
-            </choice> et bona et mala</l>
+            <l><lb n="7"/><choice>
+                    <orig>Fere</orig>
+                    <reg>Ferae</reg>
+                </choice> dicuntur penitus <choice>
+                    <orig>indomite</orig>
+                    <reg>indomitae</reg>
+                </choice>. <choice>
+                    <orig>Racio</orig>
+                    <reg>Ratio</reg>
+                </choice> et bona et mala</l>
             <l><lb n="8"/>dicitur. Virtus dicitur vera penes quam <choice>
-                <orig>viciorum</orig>
-                <reg>vitiorum</reg>
-            </choice></l>
+                    <orig>viciorum</orig>
+                    <reg>vitiorum</reg>
+                </choice></l>
             <l><lb n="9"/>cognitio consistit et est virtus <choice>
-                <orig>quedam</orig>
-                <reg>quaedam</reg>
-            </choice> potentia et</l>
+                    <orig>quedam</orig>
+                    <reg>quaedam</reg>
+                </choice> potentia et</l>
             <l><lb n="10"/>bonorum contervativa et acquisitiva secundum <del hand="#LudovicoSforza"
-                >mi</del></l>
+                    >mi</del></l>
             <l><lb n="11"/><persName ref="#Aristotele">Aristotelem</persName>. <choice>
-                <orig>Ostes</orig>
-                <reg>Hostes</reg>
-            </choice> publici, inimi vero privati dicuntur.</l>
-            <l><lb n="12"/><choice><orig>Egritudo</orig><reg>Aegritudo</reg></choice> est generale passionum animi. Metus autem </l>
-            <l><lb n="13"/><choice><orig>que</orig><reg>quae</reg></choice> pro specie sumuntur partes sunt. Argos navis a </l>
+                    <orig>Ostes</orig>
+                    <reg>Hostes</reg>
+                </choice> publici, inimi vero privati dicuntur.</l>
+            <l><lb n="12"/><choice>
+                    <orig>Egritudo</orig>
+                    <reg>Aegritudo</reg>
+                </choice> est generale passionum animi. Metus autem </l>
+            <l><lb n="13"/><choice>
+                    <orig>que</orig>
+                    <reg>quae</reg>
+                </choice> pro specie sumuntur partes sunt. Argos navis a </l>
             <l><lb n="14"/>celeritate dicta, inde <choice>
-                <orig>argonaute</orig>
-                <reg>argonautae</reg>
-            </choice> ut <persName ref="#Eracle">Hercules</persName> et <persName ref="#Giasone">Iason</persName>.</l>
-            <l><lb n="15"/>Argus interdum pro <choice><orig>ceco</orig><reg>caeco</reg></choice>, interdum pro candido et </l>
-            <l><lb n="16"/>plurimum videnti sumitur. Noxa ut placet <persName ref="#Servio">Servio</persName></l>
+                    <orig>argonaute</orig>
+                    <reg>argonautae</reg>
+                </choice> ut <persName ref="#Eracle">Hercules</persName> et <persName ref="#Giasone"
+                    >Iason</persName>.</l>
+            <l><lb n="15"/>Argus interdum pro <choice>
+                    <orig>ceco</orig>
+                    <reg>caeco</reg>
+                </choice>, interdum pro candido et </l>
+            <l><lb n="16"/>plurimum videnti sumitur. Noxa ut placet <persName ref="#Servio"
+                    >Servio</persName></l>
             <l><lb n="17"/>poena dicitur, noxia vero <choice>
-                <sic>pecatum</sic>
-                <corr>peccatum</corr>
-            </choice> vel culpa licet in</l>
+                    <sic>pecatum</sic>
+                    <corr>peccatum</corr>
+                </choice> vel culpa licet in</l>
             <l><lb n="18"/>antiquis <choice>
-                <sic>quoddicibus</sic>
-                <corr resp="#LudovicoSforza">codicibus</corr>
-            </choice> noxia per i scriptum extet. Amor</l>
+                    <sic>quoddicibus</sic>
+                    <corr resp="#LudovicoSforza">codicibus</corr>
+                </choice> noxia per i scriptum extet. Amor</l>
             <l><lb n="19"/>generale est. <choice>
-                <orig>Amicicia</orig>
-                <reg>Amicitia</reg>
-            </choice>
+                    <orig>Amicicia</orig>
+                    <reg>Amicitia</reg>
+                </choice>
                 <choice>
                     <sic>dititur</sic>
                     <corr>dicitur</corr>
                 </choice> mutua dilectio in bono</l>
-            <l><lb n="20"/>semper. Philosophia amor <choice><orig>scientie</orig><reg>scientiae</reg></choice>. Fortuna dicitur</l>
-            <l><lb n="21"/><choice><orig>ceca</orig><reg>caeca</reg></choice> quod probis noceat improbis prosit. Insana sine</l>
+            <l><lb n="20"/>semper. Philosophia amor <choice>
+                    <orig>scientie</orig>
+                    <reg>scientiae</reg>
+                </choice>. Fortuna dicitur</l>
+            <l><lb n="21"/><choice>
+                    <orig>ceca</orig>
+                    <reg>caeca</reg>
+                </choice> quod probis noceat improbis prosit. Insana sine</l>
             <l><lb n="22"/>ratione furens, bruta nulla cum <choice>
-                <orig>discreptione</orig>
-                <reg>discretione</reg>
-            </choice> gu-</l>
+                    <orig>discreptione</orig>
+                    <reg>discretione</reg>
+                </choice> gu-</l>
             <l><lb n="23"/>bernans. Fors dea, fortuna casus dicitur. Autumo </l>
             <pb n="13" xml:id="pagina13" facs="data/images/single/13.jpg"/>
             <p rend="bold"><choice>
-                <sic>ALESANDER</sic>
-                <corr>ALEXANDER</corr>
-            </choice></p>
+                    <sic>ALESANDER</sic>
+                    <corr>ALEXANDER</corr>
+                </choice></p>
             <l><lb n="1"/>secundum comicos dico significat. Iocamur sermone, ludimus</l>
             <l><lb n="2"/>et re et gestu. Ludus privatus scilicet inter amicos, ludi vero</l>
-            <l><lb n="3"/>publici ut &#171;<quote>Quintus habet ludos</quote>&#187;. Iucundus a vivo quod </l>
+            <l><lb n="3"/>publici ut &#171;<quote>Quintus habet ludos</quote>&#187;. Iucundus a vivo
+                quod </l>
             <l><lb n="4"/>vivet cum utilitat, iocosus econtra. In confirmatione</l>
             <l><lb n="5"/>rationis victoria consistit. <choice>
-                <orig>Grece</orig>
-                <reg>Graece</reg>
-            </choice> ____ vel</l>
+                    <orig>Grece</orig>
+                    <reg>Graece</reg>
+                </choice> ____ vel</l>
             <l><lb n="6"/>_____ duplex conclusio, a ____ id est </l>
             <l><lb n="7"/>capio. <choice>
-                <orig>Divorciom</orig>
-                <reg>divortium</reg>
-            </choice>separatio coniunctorum a diverto, -tis. </l>
+                    <orig>Divorciom</orig>
+                    <reg>divortium</reg>
+                </choice>separatio coniunctorum a diverto, -tis. </l>
             <l><lb n="8"/>Repudium separatio inter nondum coniunctos. Uxor</l>
             <l><lb n="9"/>quasi unxor ab ungo. Conciliare coniungere. Reconciliare</l>
             <l><lb n="10"/>est disiunctos in pristinam bene voluntatem revocare.</l>
             <l><lb n="11"/>Factiosus vulgaritere &#34;capo de parte&#34;. Quadruplator secundum</l>
-            <l><lb n="12"/><persName ref="#AsconioPediano"><choice><sic>Asconinum</sic><corr>Asconium</corr></choice> Pedianum</persName> est <choice>
-                <sic>acusator</sic>
-                <corr>accusator</corr>
-            </choice> qui condemnationis</l>
-            <l><lb n="13"/><choice><sic>acusati</sic><corr>accusati</corr></choice> quartam partem recipit. Sicarius a sica <choice>
-                <orig>gladij</orig>
-                <reg>gladii</reg>
-            </choice></l>
+            <l><lb n="12"/><persName ref="#AsconioPediano"><choice>
+                        <sic>Asconinum</sic>
+                        <corr>Asconium</corr>
+                    </choice> Pedianum</persName> est <choice>
+                    <sic>acusator</sic>
+                    <corr>accusator</corr>
+                </choice> qui condemnationis</l>
+            <l><lb n="13"/><choice>
+                    <sic>acusati</sic>
+                    <corr>accusati</corr>
+                </choice> quartam partem recipit. Sicarius a sica <choice>
+                    <orig>gladij</orig>
+                    <reg>gladii</reg>
+                </choice></l>
             <l><lb n="14"/>vel teli specie. Tribuni militum in exercitu preerant <del
-                hand="#LudovicoSforza">n</del></l>
+                    hand="#LudovicoSforza">n</del></l>
             <l><lb n="15"/>militibus, a mille dicti, quod mille sub se haberent milites.</l>
             <l><lb n="16"/>____ mille dicitur et _____, inde _____ </l>
             <l><lb n="17"/>tribunus militum. <choice>
-                <orig>Emulus</orig>
-                <reg>Aemulus</reg>
-            </choice> vulgariter &#34;lo concorrente&#34;.</l>
+                    <orig>Emulus</orig>
+                    <reg>Aemulus</reg>
+                </choice> vulgariter &#34;lo concorrente&#34;.</l>
             <l><lb n="18"/>Ambitus crimen petiti magistratus per pecuniam.</l>
             <l><lb n="19"/>Observare est diligenter atendere, interdum revereri</l>
             <l><lb n="20"/>maiores. Deprehendere est in <choice>
-                <orig>vicio</orig>
-                <reg>vitio</reg>
-            </choice> vel defectu aliquem</l>
+                    <orig>vicio</orig>
+                    <reg>vitio</reg>
+                </choice> vel defectu aliquem</l>
             <l><lb n="21"/>invenire. Scientia dicitur iam percepta, doctrina</l>
-            <l><lb n="22"/>vero cum trasfertur in discipulum. <choice><orig>Preditus</orig><reg>Praeditus</reg></choice> et bono</l>
+            <l><lb n="22"/>vero cum trasfertur in discipulum. <choice>
+                    <orig>Preditus</orig>
+                    <reg>Praeditus</reg>
+                </choice> et bono</l>
             <l><lb n="23"/>malo et virtute dicitur a _______ efferre,</l>
             <pb n="14" xml:id="pagina14" facs="data/images/single/14.jpg"/>
             <p rend="bold"><choice>
-                <sic>ANIBAL</sic>
-                <corr>ANNIBAL</corr>
-            </choice></p>
+                    <sic>ANIBAL</sic>
+                    <corr>ANNIBAL</corr>
+                </choice></p>
             <l><lb n="1"/>laudando extollere, interdum superbire, interdum </l>
             <l><lb n="2"/>ad sepulturam ferre. Viritim per capita divisum.</l>
-            <l><lb n="3"/><choice><orig>Presidium</orig><reg>praesidium</reg></choice> dicuntur milites deducti ad tutelam</l>
+            <l><lb n="3"/><choice>
+                    <orig>Presidium</orig>
+                    <reg>praesidium</reg>
+                </choice> dicuntur milites deducti ad tutelam</l>
             <l><lb n="4"/>urbis. Delectus vulgariter &#34;li cernudi&#34;. Causam</l>
             <l><lb n="5"/>dicere est se defendere. Exemplum est cum certi</l>
-            <l><lb n="6"/>auctoris nomine proprio ut &#171;<quote>sic <persName ref="#Orazio">Oratius</persName> sic
-                <persName ref="#Virgilio">Virgilius</persName></quote>&#187;</l>
+            <l><lb n="6"/>auctoris nomine proprio ut &#171;<quote>sic <persName ref="#Orazio"
+                        >Oratius</persName> sic <persName ref="#Virgilio"
+                    >Virgilius</persName></quote>&#187;</l>
             <l><lb n="7"/>dicit. Iudicatum est sententia prolata. Ordo est</l>
             <l><lb n="8"/>regula. Quantitas brevis repetitio et clara iam</l>
             <l><lb n="9"/>dictorum. Certitudo disputatorum expositio ut</l>
             <l><lb n="10"/>auditores intelligant, <choice>
-                <orig>he</orig>
-                <reg>hae</reg>
-            </choice> autem sub complexione</l>
+                    <orig>he</orig>
+                    <reg>hae</reg>
+                </choice> autem sub complexione</l>
             <l><lb n="11"/>continentur. Amplificatio indignationis commotio</l>
             <l><lb n="12"/>auditorum in adversarios. Alias pro dilatione</l>
             <l><lb n="13"/>et argumentatione sumi solet. Pares sunt homini</l>
             <l><lb n="14"/>tribus modis: animo, corpore et fortunis. Alacer</l>
             <l><lb n="15"/>quasi ala acer. Facinus dictio mesa. Nefarium</l>
             <l><lb n="16"/>quod <del hand="#LudovicoSforza">nomen</del><choice>
-                <sic>farre</sic>
-                <corr>farri</corr>
-            </choice> purgari nequit aut dici.</l>
+                    <sic>farre</sic>
+                    <corr>farri</corr>
+                </choice> purgari nequit aut dici.</l>
             <l><lb n="17"/>Singulare quod caret exemplo quodque comparationem</l>
             <l><lb n="18"/>aut superlationem non admitit. Volumen interdum</l>
             <l><lb n="19"/>totum opus interdum pars, scilicet liber unus de numero</l>
             <l><lb n="20"/>aliorum ut in poetis videmus. <choice>
-                <sic>Droctina</sic>
-                <corr>Doctrina</corr>
-            </choice> in magistro,</l>
+                    <sic>Droctina</sic>
+                    <corr>Doctrina</corr>
+                </choice> in magistro,</l>
             <l><lb n="21"/>perceptio vero in discipulo. Industria est labor</l>
             <l><lb n="22"/>in rebus honestis. Occupare est rem alienam capere</l>
             <l><lb n="23"/>vel <choice>
-                <orig>prevenire</orig>
-                <reg>praevenire</reg>
-            </choice>. Dare civitatem est civem facere.</l>
+                    <orig>prevenire</orig>
+                    <reg>praevenire</reg>
+                </choice>. Dare civitatem est civem facere.</l>
             <pb n="15" xml:id="pagina15" facs="data/images/single/15.jpg"/>
-                                    <p rend="bold"><choice>
+            <p rend="bold"><choice>
                     <sic>VESPAXIANO</sic>
                     <corr>VESPASIANUS</corr>
                 </choice></p>
-            <l><lb n="1"/>Per inanem gloriam <choice><orig>demostrare</orig><reg>demonstrare</reg></choice>. Arrogantia nimia </l>
+            <l><lb n="1"/>Per inanem gloriam <choice>
+                    <orig>demostrare</orig>
+                    <reg>demonstrare</reg>
+                </choice>. Arrogantia nimia </l>
             <l><lb n="2"/>de se extimatio et maius est ceteris omnibus <choice>
                     <orig>viciis</orig>
-                    <reg>vitiis</reg>
-                </choice>. Po- </l>
+                    <reg>vitiis</reg></choice>. Po- </l>
             <l><lb n="3"/>ema est ut opus <persName ref="#Virgilio"><choice>
                         <orig>Virgilij</orig>
                         <reg>Vergilii</reg>
@@ -1651,23 +2055,26 @@
                     <orig>asumpta</orig>
                     <reg>adsumpta</reg>
                 </choice> ab vita, ut color rhetoricus, quando aliquod</l>
-            <l><lb n="15"/>morale dicimus, id appellatur sententia. <choice><orig>Coniuncere</orig><reg>Coniungere</reg></choice> dicitur</l>
+            <l><lb n="15"/>morale dicimus, id appellatur sententia. <choice>
+                    <orig>Coniuncere</orig>
+                    <reg>Coniungere</reg>
+                </choice> dicitur</l>
             <l><lb n="16"/>obtinere. Testa dicitur omne vas terreum fictile. Coram</l>
             <l><lb n="17"/>praepositio, interdum adverbium in conspectu significans.</l>
             <l><lb n="18"/><persName ref="#Virgilio">Virgilius</persName>, &#171;<quote>coram, quem <choice>
-                    <orig>queritis</orig>
-                    <reg>quaeritis</reg>
-            </choice>, adsum</quote>&#187;. Interdum</l>
+                        <orig>queritis</orig>
+                        <reg>quaeritis</reg>
+                    </choice>, adsum</quote>&#187;. Interdum</l>
             <l><lb n="19"/>quod dicitur "a bocca". <choice>
                     <orig>Littere grece</orig>
                     <reg>Litterae graecae</reg>
                 </choice> a latinitate cele-</l>
             <l><lb n="20"/>brabantur presertim ante <persName ref="#Cicerone">Ciceronem</persName>.
-                <persName ref="#Orazio">Oratius</persName>,  &#171;<quote>vos</quote></l>
+                    <persName ref="#Orazio">Oratius</persName>, &#171;<quote>vos</quote></l>
             <l><lb n="21"/><quote>exemplaria <choice>
-                    <orig>greca</orig>
-                    <reg>graeca</reg>
-                </choice> nocturna versate manu, versate</quote></l>
+                        <orig>greca</orig>
+                        <reg>graeca</reg>
+                    </choice> nocturna versate manu, versate</quote></l>
             <l><lb n="22"/><quote>diurna</quote>&#187;. Tres sunt stili sive <choice>
                     <orig>caracteres</orig>
                     <reg>characteres</reg>
@@ -1679,7 +2086,7 @@
                         <orig>Vergilij</orig>
                         <reg>Vergilii</reg>
                     </choice></persName>, in Georgicis <del hand="#LudovicoSforza">mi</del></l>
-                <pb n="16" xml:id="pagina16" facs="data/images/single/16.jpg"/>
+            <pb n="16" xml:id="pagina16" facs="data/images/single/16.jpg"/>
             <l><lb n="1"/>mediocris. In <choice>
                     <orig>Eneide</orig>
                     <reg>Aeneide</reg>
@@ -1690,7 +2097,10 @@
                 </choice> civitatis. Dominatus et dominatio dicitur</l>
             <l><lb n="3"/>de crudeli sicut et tyrannus, imperium autem de iusto. </l>
             <l><lb n="4"/>Cum loquimur de re militari virtus pro fortitudine</l>
-            <l><lb n="5"/>sumitur. Tria ad bellum gerendum <choice><sic>requirutur</sic><corr>requiruntur</corr></choice>:</l>
+            <l><lb n="5"/>sumitur. Tria ad bellum gerendum <choice>
+                    <sic>requirutur</sic>
+                    <corr>requiruntur</corr>
+                </choice>:</l>
             <l><lb n="6"/>multitudo militum, idoneus imperator, pecunia <del hand="#LudovicoSforza"
                     >m</del></l>
             <l><lb n="7"/>multa. Descio descisco et desio idem sunt quod rebello.</l>
@@ -1710,42 +2120,26 @@
             <l><lb n="15"/>et <choice>
                     <orig>sepe</orig>
                     <reg>saepe</reg>
-            </choice> interdum significat. Expedire vulgariter &#34;desbratare&#34;</l>
-            <l><lb n="16"/>dicitur. Duplex est <choice><orig>Cartago</orig><reg>Carthago</reg></choice>, scilicet <placeName ref="#Cartaginevecchia">vetus</placeName> in</l>
-            <l><lb n="17"/>Africa et <placeName ref="#Cartaginenuova">nova</placeName> in <choice><orig>Ispania</orig><reg>Hispania</reg></choice>. Duplex est forum, scilicet rerum </l>
+                </choice> interdum significat. Expedire vulgariter &#34;desbratare&#34;</l>
+            <l><lb n="16"/>dicitur. Duplex est <choice>
+                    <orig>Cartago</orig>
+                    <reg>Carthago</reg>
+                </choice>, scilicet <placeName ref="#Cartaginevecchia">vetus</placeName> in</l>
+            <l><lb n="17"/>Africa et <placeName ref="#Cartaginenuova">nova</placeName> in <choice>
+                    <orig>Ispania</orig>
+                    <reg>Hispania</reg>
+                </choice>. Duplex est forum, scilicet rerum </l>
             <l><lb n="18"/>venalium et forensium. Deprecor interdum etiam </l>
             <l><lb n="19"/>removeo. Conversio repetit fines. <choice>
                     <orig>Repeticio</orig>
                     <reg>Repetitio</reg>
                 </choice> vero </l>
             <l><lb n="20"/>principia. Existimatio bona de se opinio.</l>
-            <l><lb n="21"/><persName ref="#LudovicoSforza">Ludovicusmaria Sfortia</persName>, Vicecomes annorum XV</l>
+            <l><lb n="21"/><persName ref="#LudovicoSforza">Ludovicusmaria Sfortia</persName>,
+                Vicecomes annorum XV</l>
             <l><lb n="22"/>et mensium IV, manu propria die 27 Novembri </l>
             <l><lb n="23"/>1467. </l>
             <l><lb n="24"/><placeName ref="#Cremona">Cremone</placeName>. </l>
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-           
-            
-            
-            
-           
-            
-            
-           
-           
-           
-            
-            
-            
         </body>
-           </text>
+    </text>
 </TEI>
